@@ -153,7 +153,18 @@ def compute_1s_from_snapshots(grp_day: pd.DataFrame) -> pd.DataFrame:
     sec["mid"] = (sec["Pb"] + sec["Pa"]) / 2.0
     sec["avg_spread"] = (sec["Pa"] - sec["Pb"])
     sec["depth"] = (sec["qb"] + sec["qa"]) / 2.0
-    sec["avg_event_size"] = sec[["qb","qa"]].mean(axis=1).fillna(0)
+    # número de mudanças de tamanho por segundo (bid + ask)
+    sec["n_changes"] = ((sec["dq_b"].abs() > 0).astype(int) + (sec["dq_a"].abs() > 0).astype(int))
+
+    # soma absoluta das mudanças por segundo (já tínhamos n_events_size_changes, porém usamos explicitamente)
+    sec["total_change_size"] = sec["dq_b"].abs() + sec["dq_a"].abs()
+
+    # avg_event_size: média do tamanho por evento (condicional ao número de mudanças)
+    # quando não há mudanças no segundo, definimos 0.0 (ou np.nan, se preferir)
+    sec["avg_event_size"] = np.where(sec["n_changes"] > 0, sec["total_change_size"] / sec["n_changes"], 0.0)
+
+    # opcional: remova colunas auxiliares antes de retornar, se não quiser que fiquem no dataframe
+    sec = sec.drop(columns=["n_changes", "total_change_size"], errors="ignore")
 
     # mid_return in bps
     sec = sec.reset_index().sort_values("ts").reset_index(drop=True)
