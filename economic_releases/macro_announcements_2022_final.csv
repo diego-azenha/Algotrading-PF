@@ -1,0 +1,73 @@
+indicator,release_datetime_CT,actual_raw,forecast_raw,negative,source_line
+Construction Spending,2022-01-03T10:00:00-06:00,0.4%,0.6%,1,10:00	  USD		Construction Spending (MoM) (Nov)	0.4%	0.6%	0.4%
+Construction Spending,2022-02-01T10:00:00-06:00,0.2%,0.6%,1,10:00	  USD		Construction Spending (MoM) (Dec)	0.2%	0.6%	0.6%
+Construction Spending,2022-03-01T10:00:00-06:00,1.3%,0.2%,0,10:00	  USD		Construction Spending (MoM) (Jan)	1.3%	0.2%	0.8%
+Construction Spending,2022-04-01T09:00:00-05:00,0.5%,1.0%,1,09:00	  USD		Construction Spending (MoM) (Feb)	0.5%	1.0%	1.6%
+Construction Spending,2022-05-02T09:00:00-05:00,0.1%,0.7%,1,09:00	  USD		Construction Spending (MoM) (Mar)	0.1%	0.7%	0.5%
+Construction Spending,2022-06-01T09:00:00-05:00,0.2%,0.5%,1,09:00	  USD		Construction Spending (MoM) (Apr)	0.2%	0.5%	0.3%
+Construction Spending,2022-07-01T09:00:00-05:00,-0.1%,0.4%,1,09:00	  USD		Construction Spending (MoM) (May)	-0.1%	0.4%	0.8%
+Construction Spending,2022-08-01T09:00:00-05:00,-1.1%,0.2%,1,09:00	  USD		Construction Spending (MoM) (Jun)	-1.1%	0.2%	0.1%
+Construction Spending,2022-09-01T09:00:00-05:00,-0.4%,-0.4%,0,09:00	  USD		Construction Spending (MoM) (Jul)	-0.4%	-0.4%	-0.5%
+Construction Spending,2022-10-03T09:00:00-05:00,-0.7%,-0.3%,1,09:00	  USD		Construction Spending (MoM) (Aug)	-0.7%	-0.3%	-0.6%
+Construction Spending,2022-11-01T09:00:00-05:00,0.2%,-0.5%,0,09:00	  USD		Construction Spending (MoM) (Sep)	0.2%	-0.5%	-0.6%
+Construction Spending,2022-12-01T10:00:00-06:00,-0.3%,-0.3%,0,10:00	  USD		Construction Spending (MoM) (Oct)	-0.3%	-0.3%	0.1%
+Consumer Confidence,2022-01-25T10:00:00-06:00,113.8,111.8,0,10:00	  USD		CB Consumer Confidence (Jan)	113.8	111.8	115.2
+Consumer Confidence,2022-02-22T10:00:00-06:00,110.5,110.0,0,10:00	  USD		CB Consumer Confidence (Feb)	110.5	110.0	111.1
+Consumer Confidence,2022-03-29T09:00:00-05:00,107.2,107.0,0,09:00	  USD		CB Consumer Confidence (Mar)	107.2	107.0	105.7
+Consumer Confidence,2022-04-26T09:00:00-05:00,107.3,108.0,1,09:00	  USD		CB Consumer Confidence (Apr)	107.3	108.0	107.6
+Consumer Confidence,2022-05-31T09:00:00-05:00,106.4,103.9,0,09:00	  USD		CB Consumer Confidence (May)	106.4	103.9	108.6
+Consumer Confidence,2022-06-28T09:00:00-05:00,98.7,100.4,1,09:00	  USD		CB Consumer Confidence (Jun)	98.7	100.4	103.2
+Consumer Confidence,2022-07-26T09:00:00-05:00,95.7,97.2,1,09:00	  USD		CB Consumer Confidence (Jul)	95.7	97.2	98.4
+Consumer Confidence,2022-08-30T09:00:00-05:00,103.2,97.9,0,09:00	  USD		CB Consumer Confidence (Aug)	103.2	97.9	95.3
+Consumer Confidence,2022-09-27T09:00:00-05:00,108.0,104.5,0,09:00	  USD		CB Consumer Confidence (Sep)	108.0	104.5	103.6
+Consumer Confidence,2022-10-25T09:00:00-05:00,102.5,106.5,1,09:00	  USD		CB Consumer Confidence (Oct)	102.5	106.5	107.8
+Consumer Confidence,2022-11-29T10:00:00-06:00,100.2,100.0,0,10:00	  USD		CB Consumer Confidence (Nov)	100.2	100.0	102.2
+Consumer Confidence,2022-12-21T10:00:00-06:00,108.3,101.0,0,10:00	  USD		CB Consumer Confidence (Dec)	108.3	101.0	101.4
+Existing Home Sales,2022-01-20T10:00:00-06:00,,,0,10:00	  USD		Existing Home Sales (Dec)	6.18M	6.44M	6.48M
+Existing Home Sales,2022-02-18T10:00:00-06:00,,,0,10:00	  USD		Existing Home Sales (Jan)	6.50M	6.10M	6.09M
+Existing Home Sales,2022-03-18T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (Feb)	6.02M	6.10M	6.49M
+Existing Home Sales,2022-04-20T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (Mar)	5.77M	5.80M	5.93M
+Existing Home Sales,2022-05-19T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (Apr)	5.61M	5.65M	5.75M
+Existing Home Sales,2022-06-21T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (May)	5.41M	5.39M	5.60M
+Existing Home Sales,2022-07-20T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (Jun)	5.12M	5.38M	5.41M
+Existing Home Sales,2022-08-18T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (Jul)	4.81M	4.89M	5.11M
+Existing Home Sales,2022-09-21T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (Aug)	4.80M	4.70M	4.82M
+Existing Home Sales,2022-10-20T09:00:00-05:00,,,0,09:00	  USD		Existing Home Sales (Sep)	4.71M	4.70M	4.78M
+Existing Home Sales,2022-11-18T10:00:00-06:00,,,0,10:00	  USD		Existing Home Sales (Oct)	4.43M	4.38M	4.71M
+Existing Home Sales,2022-12-21T10:00:00-06:00,,,0,10:00	  USD		Existing Home Sales (Nov)	4.09M	4.20M	4.43M
+Factory Orders,2022-01-06T10:00:00-06:00,1.6%,1.5%,0,10:00	  USD		Factory Orders (MoM) (Nov)	1.6%	1.5%	1.2%
+Factory Orders,2022-02-03T10:00:00-06:00,-0.4%,-0.2%,1,10:00	  USD		Factory Orders (MoM) (Dec)	-0.4%	-0.2%	1.8%
+Factory Orders,2022-03-03T10:00:00-06:00,1.4%,0.5%,0,10:00	  USD		Factory Orders (MoM) (Jan)	1.4%	0.5%	0.7%
+Factory Orders,2022-04-04T09:00:00-05:00,-0.5%,-0.5%,0,09:00	  USD		Factory Orders (MoM) (Feb)	-0.5%	-0.5%	1.5%
+Factory Orders,2022-05-03T09:00:00-05:00,2.2%,1.1%,0,09:00	  USD		Factory Orders (MoM) (Mar)	2.2%	1.1%	0.1%
+Factory Orders,2022-06-02T09:00:00-05:00,0.3%,0.7%,1,09:00	  USD		Factory Orders (MoM) (Apr)	0.3%	0.7%	1.8%
+Factory Orders,2022-07-05T09:00:00-05:00,1.6%,0.5%,0,09:00	  USD		Factory Orders (MoM) (May)	1.6%	0.5%	0.7%
+Factory Orders,2022-08-03T09:00:00-05:00,2.0%,1.1%,0,09:00	  USD		Factory Orders (MoM) (Jun)	2.0%	1.1%	1.8%
+Factory Orders,2022-09-02T09:00:00-05:00,-1.0%,0.2%,1,09:00	  USD		Factory Orders (MoM) (Jul)	-1.0%	0.2%	1.8%
+Factory Orders,2022-10-04T09:00:00-05:00,0.0%,0.2%,1,09:00	  USD		Factory Orders (MoM) (Aug)	0.0%	0.2%	-1.0%
+Factory Orders,2022-11-03T09:00:00-05:00,0.3%,0.3%,0,09:00	  USD		Factory Orders (MoM) (Sep)	0.3%	0.3%	0.2%
+Factory Orders,2022-12-05T10:00:00-06:00,1.0%,0.7%,0,10:00	  USD		Factory Orders (MoM) (Oct)	1.0%	0.7%	0.3%
+ISM Manufacturing,2022-01-04T10:00:00-06:00,58.7,60.0,1,10:00	  USD		ISM Manufacturing PMI (Dec)	58.7	60.0	61.1
+ISM Manufacturing,2022-02-01T10:00:00-06:00,57.6,57.5,0,10:00	  USD		ISM Manufacturing PMI (Jan)	57.6	57.5	58.8
+ISM Manufacturing,2022-03-01T10:00:00-06:00,58.6,58.0,0,10:00	  USD		ISM Manufacturing PMI (Feb)	58.6	58.0	57.6
+ISM Manufacturing,2022-04-01T09:00:00-05:00,57.1,59.0,1,09:00	  USD		ISM Manufacturing PMI (Mar)	57.1	59.0	58.6
+ISM Manufacturing,2022-05-02T09:00:00-05:00,55.4,57.6,1,09:00	  USD		ISM Manufacturing PMI (Apr)	55.4	57.6	57.1
+ISM Manufacturing,2022-06-01T09:00:00-05:00,56.1,54.5,0,09:00	  USD		ISM Manufacturing PMI (May)	56.1	54.5	55.4
+ISM Manufacturing,2022-07-01T09:00:00-05:00,53.0,54.9,1,09:00	  USD		ISM Manufacturing PMI (Jun)	53.0	54.9	56.1
+ISM Manufacturing,2022-08-01T09:00:00-05:00,52.8,52.0,0,09:00	  USD		ISM Manufacturing PMI (Jul)	52.8	52.0	53.0
+ISM Manufacturing,2022-09-01T09:00:00-05:00,52.8,52.0,0,09:00	  USD		ISM Manufacturing PMI (Aug)	52.8	52.0	52.8
+ISM Manufacturing,2022-10-03T09:00:00-05:00,50.9,52.2,1,09:00	  USD		ISM Manufacturing PMI (Sep)	50.9	52.2	52.8
+ISM Manufacturing,2022-11-01T09:00:00-05:00,50.2,50.0,0,09:00	  USD		ISM Manufacturing PMI (Oct)	50.2	50.0	50.9
+ISM Manufacturing,2022-12-01T10:00:00-06:00,49.0,49.8,1,10:00	  USD		ISM Manufacturing PMI (Nov)	49.0	49.8	50.2
+ISM Non-Manufacturing,2022-01-06T10:00:00-06:00,62.0,66.9,1,10:00	  USD		ISM Non-Manufacturing PMI (Dec)	62.0	66.9	69.1
+ISM Non-Manufacturing,2022-02-03T10:00:00-06:00,59.9,59.5,0,10:00	  USD		ISM Non-Manufacturing PMI (Jan)	59.9	59.5	62.3
+ISM Non-Manufacturing,2022-03-03T10:00:00-06:00,56.5,61.0,1,10:00	  USD		ISM Non-Manufacturing PMI (Feb)	56.5	61.0	59.9
+ISM Non-Manufacturing,2022-04-05T09:00:00-05:00,58.3,58.4,1,09:00	  USD		ISM Non-Manufacturing PMI (Mar)	58.3	58.4	56.5
+ISM Non-Manufacturing,2022-05-04T09:00:00-05:00,57.1,58.5,1,09:00	  USD		ISM Non-Manufacturing PMI (Apr)	57.1	58.5	58.3
+ISM Non-Manufacturing,2022-06-03T09:00:00-05:00,55.9,56.4,1,09:00	  USD		ISM Non-Manufacturing PMI (May)	55.9	56.4	57.1
+ISM Non-Manufacturing,2022-07-06T09:00:00-05:00,55.3,54.3,0,09:00	  USD		ISM Non-Manufacturing PMI (Jun)	55.3	54.3	55.9
+ISM Non-Manufacturing,2022-08-03T09:00:00-05:00,56.7,53.5,0,09:00	  USD		ISM Non-Manufacturing PMI (Jul)	56.7	53.5	55.3
+ISM Non-Manufacturing,2022-09-06T09:00:00-05:00,56.9,55.1,0,09:00	  USD		ISM Non-Manufacturing PMI (Aug)	56.9	55.1	56.7
+ISM Non-Manufacturing,2022-10-05T09:00:00-05:00,56.7,56.0,0,09:00	  USD		ISM Non-Manufacturing PMI (Sep)	56.7	56.0	56.9
+ISM Non-Manufacturing,2022-11-03T09:00:00-05:00,54.4,55.5,1,09:00	  USD		ISM Non-Manufacturing PMI (Oct)	54.4	55.5	56.7
+ISM Non-Manufacturing,2022-12-05T10:00:00-06:00,56.5,53.3,0,10:00	  USD		ISM Non-Manufacturing PMI (Nov)	56.5	53.3	54.4

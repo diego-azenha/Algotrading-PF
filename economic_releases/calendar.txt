@@ -1,0 +1,1981 @@
+08:30	  USD		Initial Jobless Claims	198K	208K	206K	
+09:45	  USD		Chicago PMI (Dec)	63.1	62.0	61.8	
+Tuesday, January 4, 2022
+10:00	  USD		ISM Manufacturing PMI (Dec)	58.7	60.0	61.1	
+10:00	  USD		ISM Manufacturing Prices (Dec)	68.2	79.5	82.4	
+10:00	  USD		JOLTS Job Openings (Nov)	10.562M	11.075M	11.091M	
+Wednesday, January 5, 2022
+08:15	  USD		ADP Nonfarm Employment Change (Dec)	807K	400K	505K	
+14:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, January 6, 2022
+08:30	  USD		Initial Jobless Claims	207K	197K	200K	
+10:00	  USD		ISM Non-Manufacturing PMI (Dec)	62.0	66.9	69.1	
+10:00	  USD		ISM Non-Manufacturing Prices (Dec)	82.5	 	82.3	
+Friday, January 7, 2022
+08:30	  USD		Average Hourly Earnings (MoM) (Dec)	0.6%	0.4%	0.4%	
+08:30	  USD		Nonfarm Payrolls (Dec)	199K	400K	249K	
+08:30	  USD		Unemployment Rate (Dec)	3.9%	4.1%	4.2%	
+Tuesday, January 11, 2022
+10:00	  USD		Fed Chair Powell Testifies  	 	 	 	
+Wednesday, January 12, 2022
+08:30	  USD		Core CPI (MoM) (Dec)	0.6%	0.5%	0.5%	
+08:30	  USD		CPI (YoY) (Dec)	7.0%	7.0%	6.8%	
+08:30	  USD		CPI (MoM) (Dec)	0.5%	0.4%	0.8%	
+Thursday, January 13, 2022
+08:30	  USD		Initial Jobless Claims	230K	200K	207K	
+08:30	  USD		PPI (MoM) (Dec)	0.2%	0.4%	1.0%	
+Friday, January 14, 2022
+08:30	  USD		Core Retail Sales (MoM) (Dec)	-2.3%	0.2%	0.1%	
+08:30	  USD		Retail Sales (MoM) (Dec)	-1.9%	-0.1%	0.2%	
+Monday, January 17, 2022
+All Day	 	Holiday	United States - Martin Luther King, Jr. Day
+Thursday, January 20, 2022
+08:30	  USD		Initial Jobless Claims	286K	220K	231K	
+08:30	  USD		Philadelphia Fed Manufacturing Index (Jan)	23.2	20.0	15.4	
+10:00	  USD		Existing Home Sales (Dec)	6.18M	6.44M	6.48M	
+Tuesday, January 25, 2022
+10:00	  USD		CB Consumer Confidence (Jan)	113.8	111.8	115.2	
+Wednesday, January 26, 2022
+10:00	  USD		New Home Sales (Dec)	811K	760K	725K	
+14:00	  USD		FOMC Statement  	 	 	 	
+14:00	  USD		Fed Interest Rate Decision	0.25%	0.25%	0.25%	
+14:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, January 27, 2022
+08:30	  USD		Durable Goods Orders (MoM) (Dec)	-0.9%	-0.5%	3.2%	
+08:30	  USD		GDP (QoQ) (Q4)  	6.9%	5.5%	2.3%	
+08:30	  USD		Initial Jobless Claims	260K	260K	290K	
+Friday, January 28, 2022
+08:30	  USD		Core PCE Price Index (YoY) (Dec)	4.9%	4.8%	4.7%	
+08:30	  USD		Core PCE Price Index (MoM) (Dec)	0.5%	0.5%	0.5%	
+Monday, January 31, 2022
+09:45	  USD		Chicago PMI (Jan)	65.2	61.7	64.3	
+Tuesday, February 1, 2022
+10:00	  USD		ISM Manufacturing PMI (Jan)	57.6	57.5	58.8	
+10:00	  USD		ISM Manufacturing Prices (Jan)	76.1	68.1	68.2	
+10:00	  USD		JOLTS Job Openings (Dec)	10.925M	10.300M	10.775M	
+Wednesday, February 2, 2022
+08:15	  USD		ADP Nonfarm Employment Change (Jan)	-301K	207K	776K	
+Thursday, February 3, 2022
+08:30	  USD		Initial Jobless Claims	238K	245K	261K	
+10:00	  USD		ISM Non-Manufacturing PMI (Jan)	59.9	59.5	62.3	
+10:00	  USD		ISM Non-Manufacturing Prices (Jan)	82.3	 	83.9	
+Friday, February 4, 2022
+08:30	  USD		Average Hourly Earnings (MoM) (Jan)	0.7%	0.5%	0.5%	
+08:30	  USD		Nonfarm Payrolls (Jan)	467K	150K	510K	
+08:30	  USD		Unemployment Rate (Jan)	4.0%	3.9%	3.9%	
+10:45	  USD		U.S. President Biden Speaks  	 	 	 	
+Thursday, February 10, 2022
+08:30	  USD		Core CPI (MoM) (Jan)	0.6%	0.5%	0.6%	
+08:30	  USD		CPI (YoY) (Jan)	7.5%	7.3%	7.0%	
+08:30	  USD		CPI (MoM) (Jan)	0.6%	0.5%	0.6%	
+08:30	  USD		Initial Jobless Claims	223K	230K	239K	
+Tuesday, February 15, 2022
+08:30	  USD		PPI (MoM) (Jan)	1.0%	0.5%	0.4%	
+15:30	  USD		U.S. President Biden Speaks  	 	 	 	
+Wednesday, February 16, 2022
+08:30	  USD		Core Retail Sales (MoM) (Jan)	3.3%	0.8%	-2.8%	
+08:30	  USD		Retail Sales (MoM) (Jan)	3.8%	2.0%	-2.5%	
+14:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, February 17, 2022
+08:30	  USD		Initial Jobless Claims	248K	219K	225K	
+08:30	  USD		Philadelphia Fed Manufacturing Index (Feb)	16.0	20.0	23.2	
+Friday, February 18, 2022
+10:00	  USD		Existing Home Sales (Jan)	6.50M	6.10M	6.09M	
+16:00	  USD		U.S. President Biden Speaks  	 	 	 	
+Monday, February 21, 2022
+All Day	 	Holiday	United States - Presidents' Day
+Tuesday, February 22, 2022
+10:00	  USD		CB Consumer Confidence (Feb)	110.5	110.0	111.1	
+Thursday, February 24, 2022
+08:30	  USD		GDP (QoQ) (Q4)  	7.0%	7.0%	6.9%	
+08:30	  USD		Initial Jobless Claims	232K	235K	249K	
+10:00	  USD		New Home Sales (Jan)	801K	806K	839K	
+13:30	  USD		U.S. President Biden Speaks  	 	 	 	
+Friday, February 25, 2022
+08:30	  USD		Core PCE Price Index (YoY) (Jan)	5.2%	5.1%	4.9%	
+08:30	  USD		Core PCE Price Index (MoM) (Jan)	0.5%	0.5%	0.5%	
+08:30	  USD		Durable Goods Orders (MoM) (Jan)	1.6%	0.8%	1.2%	
+11:00	  USD		Fed Monetary Policy Report  	 	 	 	
+Monday, February 28, 2022
+09:45	  USD		Chicago PMI (Feb)	56.3	63.0	65.2	
+Tuesday, March 1, 2022
+10:00	  USD		ISM Manufacturing PMI (Feb)	58.6	58.0	57.6	
+10:00	  USD		ISM Manufacturing Prices (Feb)	75.6	68.1	76.1	
+16:00	  USD		U.S. President Biden Speaks  	 	 	 	
+21:00	  USD		U.S. President Biden Speaks  	 	 	 	
+Wednesday, March 2, 2022
+08:15	  USD		ADP Nonfarm Employment Change (Feb)	475K	378K	509K	
+10:00	  USD		Fed Chair Powell Testifies  	 	 	 	
+Thursday, March 3, 2022
+08:30	  USD		Initial Jobless Claims	215K	226K	233K	
+10:00	  USD		Fed Chair Powell Testifies  	 	 	 	
+10:00	  USD		ISM Non-Manufacturing PMI (Feb)	56.5	61.0	59.9	
+10:00	  USD		ISM Non-Manufacturing Prices (Feb)	83.1	 	82.3	
+Friday, March 4, 2022
+08:30	  USD		Average Hourly Earnings (MoM) (Feb)	0.0%	0.5%	0.6%	
+08:30	  USD		Nonfarm Payrolls (Feb)	678K	400K	481K	
+08:30	  USD		Unemployment Rate (Feb)	3.8%	3.9%	4.0%	
+Wednesday, March 9, 2022
+10:00	  USD		JOLTS Job Openings (Jan)	11.263M	10.925M	11.448M	
+Thursday, March 10, 2022
+08:30	  USD		Core CPI (MoM) (Feb)	0.5%	0.5%	0.6%	
+08:30	  USD		CPI (YoY) (Feb)	7.9%	7.9%	7.5%	
+08:30	  USD		CPI (MoM) (Feb)	0.8%	0.8%	0.6%	
+08:30	  USD		Initial Jobless Claims	227K	217K	216K	
+Tuesday, March 15, 2022
+07:30	  USD		PPI (MoM) (Feb)	0.8%	0.9%	1.2%	
+Wednesday, March 16, 2022
+07:30	  USD		Core Retail Sales (MoM) (Feb)	0.2%	0.9%	4.4%	
+07:30	  USD		Retail Sales (MoM) (Feb)	0.3%	0.4%	4.9%	
+13:00	  USD		FOMC Economic Projections  	 	 	 	
+13:00	  USD		FOMC Statement  	 	 	 	
+13:00	  USD		Fed Interest Rate Decision	0.50%	0.50%	0.25%	
+13:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, March 17, 2022
+07:30	  USD		Initial Jobless Claims	214K	220K	229K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (Mar)	27.4	15.0	16.0	
+Friday, March 18, 2022
+09:00	  USD		Existing Home Sales (Feb)	6.02M	6.10M	6.49M	
+Monday, March 21, 2022
+11:30	  USD		Fed Chair Powell Speaks  	 	 	 	
+Wednesday, March 23, 2022
+07:00	  USD		Fed Chair Powell Speaks  	 	 	 	
+09:00	  USD		New Home Sales (Feb)	772K	810K	788K	
+Thursday, March 24, 2022
+07:30	  USD		Durable Goods Orders (MoM) (Feb)	-2.2%	-0.5%	1.6%	
+07:30	  USD		Initial Jobless Claims	187K	212K	215K	
+Tuesday, March 29, 2022
+09:00	  USD		CB Consumer Confidence (Mar)	107.2	107.0	105.7	
+09:00	  USD		JOLTS Job Openings (Feb)	11.266M	11.000M	11.283M	
+Wednesday, March 30, 2022
+07:15	  USD		ADP Nonfarm Employment Change (Mar)	455K	450K	486K	
+07:30	  USD		GDP (QoQ) (Q4)	6.9%	7.1%	7.0%	
+Thursday, March 31, 2022
+07:30	  USD		Core PCE Price Index (YoY) (Feb)	5.4%	5.5%	5.2%	
+07:30	  USD		Core PCE Price Index (MoM) (Feb)	0.4%	0.4%	0.5%	
+07:30	  USD		Initial Jobless Claims	202K	197K	188K	
+08:45	  USD		Chicago PMI (Mar)	62.9	57.0	56.3	
+Friday, April 1, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (Mar)	0.4%	0.4%	0.1%	
+07:30	  USD		Nonfarm Payrolls (Mar)	431K	490K	750K	
+07:30	  USD		Unemployment Rate (Mar)	3.6%	3.7%	3.8%	
+09:00	  USD		ISM Manufacturing PMI (Mar)	57.1	59.0	58.6	
+09:00	  USD		ISM Manufacturing Prices (Mar)	87.1	80.0	75.6	
+Tuesday, April 5, 2022
+09:00	  USD		ISM Non-Manufacturing PMI (Mar)	58.3	58.4	56.5	
+09:00	  USD		ISM Non-Manufacturing Prices (Mar)	83.8	 	83.1	
+Wednesday, April 6, 2022
+13:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, April 7, 2022
+07:30	  USD		Initial Jobless Claims	166K	200K	171K	
+Tuesday, April 12, 2022
+07:30	  USD		Core CPI (MoM) (Mar)	0.3%	0.5%	0.5%	
+07:30	  USD		CPI (YoY) (Mar)	8.5%	8.4%	7.9%	
+07:30	  USD		CPI (MoM) (Mar)	1.2%	1.2%	0.8%	
+Wednesday, April 13, 2022
+07:30	  USD		PPI (MoM) (Mar)	1.4%	1.1%	0.9%	
+Thursday, April 14, 2022
+07:30	  USD		Core Retail Sales (MoM) (Mar)	1.1%	1.0%	0.6%	
+07:30	  USD		Initial Jobless Claims	185K	171K	167K	
+07:30	  USD		Retail Sales (MoM) (Mar)	0.5%	0.6%	0.8%	
+Friday, April 15, 2022
+All Day	 	Holiday	United States - Good Friday
+Wednesday, April 20, 2022
+09:00	  USD		Existing Home Sales (Mar)	5.77M	5.80M	5.93M	
+Thursday, April 21, 2022
+07:30	  USD		Initial Jobless Claims	184K	180K	186K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (Apr)	17.6	21.0	27.4	
+10:00	  USD		Fed Chair Powell Speaks  	 	 	 	
+12:00	  USD		Fed Chair Powell Speaks  	 	 	 	
+Tuesday, April 26, 2022
+07:30	  USD		Durable Goods Orders (MoM) (Mar)	0.8%	1.0%	-1.7%	
+09:00	  USD		CB Consumer Confidence (Apr)	107.3	108.0	107.6	
+09:00	  USD		New Home Sales (Mar)	763K	765K	835K	
+Thursday, April 28, 2022
+07:30	  USD		GDP (QoQ) (Q1)  	-1.4%	1.1%	6.9%	
+07:30	  USD		Initial Jobless Claims	180K	180K	185K	
+Friday, April 29, 2022
+07:30	  USD		Core PCE Price Index (MoM) (Mar)	0.3%	0.3%	0.3%	
+07:30	  USD		Core PCE Price Index (YoY) (Mar)	5.2%	5.3%	5.3%	
+08:45	  USD		Chicago PMI (Apr)	56.4	62.0	62.9	
+Monday, May 2, 2022
+09:00	  USD		ISM Manufacturing PMI (Apr)	55.4	57.6	57.1	
+09:00	  USD		ISM Manufacturing Prices (Apr)	84.6	87.5	87.1	
+Tuesday, May 3, 2022
+09:00	  USD		JOLTS Job Openings (Mar)	11.549M	11.000M	11.344M	
+Wednesday, May 4, 2022
+07:15	  USD		ADP Nonfarm Employment Change (Apr)	247K	395K	479K	
+09:00	  USD		ISM Non-Manufacturing PMI (Apr)	57.1	58.5	58.3	
+09:00	  USD		ISM Non-Manufacturing Prices (Apr)	84.6	 	83.8	
+13:00	  USD		FOMC Statement  	 	 	 	
+13:00	  USD		Fed Interest Rate Decision	1.00%	1.00%	0.50%	
+13:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, May 5, 2022
+07:30	  USD		Initial Jobless Claims	200K	182K	181K	
+Friday, May 6, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (Apr)	0.3%	0.4%	0.5%	
+07:30	  USD		Nonfarm Payrolls (Apr)	428K	391K	428K	
+07:30	  USD		Unemployment Rate (Apr)	3.6%	3.5%	3.6%	
+Tuesday, May 10, 2022
+10:30	  USD		U.S. President Biden Speaks  	 	 	 	
+Wednesday, May 11, 2022
+07:30	  USD		Core CPI (MoM) (Apr)	0.6%	0.4%	0.3%	
+07:30	  USD		CPI (YoY) (Apr)	8.3%	8.1%	8.5%	
+07:30	  USD		CPI (MoM) (Apr)	0.3%	0.2%	1.2%	
+Thursday, May 12, 2022
+07:30	  USD		Initial Jobless Claims	203K	195K	202K	
+07:30	  USD		PPI (MoM) (Apr)	0.5%	0.5%	1.6%	
+Tuesday, May 17, 2022
+07:30	  USD		Core Retail Sales (MoM) (Apr)	0.6%	0.4%	2.1%	
+07:30	  USD		Retail Sales (MoM) (Apr)	0.9%	0.9%	1.4%	
+13:00	  USD		Fed Chair Powell Speaks  	 	 	 	
+Thursday, May 19, 2022
+07:30	  USD		Initial Jobless Claims	218K	200K	197K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (May)	2.6	16.0	17.6	
+09:00	  USD		Existing Home Sales (Apr)	5.61M	5.65M	5.75M	
+Tuesday, May 24, 2022
+09:00	  USD		New Home Sales (Apr)	591K	750K	709K	
+11:20	  USD		Fed Chair Powell Speaks  	 	 	 	
+Wednesday, May 25, 2022
+07:30	  USD		Durable Goods Orders (MoM) (Apr)	0.4%	0.6%	0.6%	
+13:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, May 26, 2022
+07:30	  USD		GDP (QoQ) (Q1)  	-1.5%	-1.3%	-1.4%	
+07:30	  USD		Initial Jobless Claims	210K	215K	218K	
+Friday, May 27, 2022
+07:30	  USD		Core PCE Price Index (MoM) (Apr)	0.3%	0.3%	0.3%	
+07:30	  USD		Core PCE Price Index (YoY) (Apr)	4.9%	4.9%	5.2%	
+Monday, May 30, 2022
+All Day	 	Holiday	United States - Memorial Day
+Tuesday, May 31, 2022
+08:45	  USD		Chicago PMI (May)	60.3	55.0	56.4	
+09:00	  USD		CB Consumer Confidence (May)	106.4	103.9	108.6	
+Wednesday, June 1, 2022
+09:00	  USD		ISM Manufacturing PMI (May)	56.1	54.5	55.4	
+09:00	  USD		ISM Manufacturing Prices (May)	82.2	83.0	84.6	
+09:00	  USD		JOLTS Job Openings (Apr)	11.400M	11.400M	11.855M	
+Thursday, June 2, 2022
+07:15	  USD		ADP Nonfarm Employment Change (May)	128K	300K	202K	
+07:30	  USD		Initial Jobless Claims	200K	210K	211K	
+Friday, June 3, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (May)	0.3%	0.4%	0.3%	
+07:30	  USD		Nonfarm Payrolls (May)	390K	325K	436K	
+07:30	  USD		Unemployment Rate (May)	3.6%	3.5%	3.6%	
+09:00	  USD		ISM Non-Manufacturing PMI (May)	55.9	56.4	57.1	
+09:00	  USD		ISM Non-Manufacturing Prices (May)	82.1	 	84.6	
+Thursday, June 9, 2022
+07:30	  USD		Initial Jobless Claims	229K	210K	202K	
+Friday, June 10, 2022
+07:30	  USD		Core CPI (MoM) (May)	0.6%	0.5%	0.6%	
+07:30	  USD		CPI (YoY) (May)	8.6%	8.3%	8.3%	
+07:30	  USD		CPI (MoM) (May)	1.0%	0.7%	0.3%	
+Tuesday, June 14, 2022
+07:30	  USD		PPI (MoM) (May)	0.8%	0.8%	0.4%	
+Wednesday, June 15, 2022
+07:30	  USD		Core Retail Sales (MoM) (May)	0.5%	0.8%	0.4%	
+07:30	  USD		Retail Sales (MoM) (May)	-0.3%	0.2%	0.7%	
+13:00	  USD		FOMC Economic Projections  	 	 	 	
+13:00	  USD		FOMC Statement  	 	 	 	
+13:00	  USD		Fed Interest Rate Decision	1.75%	1.50%	1.00%	
+13:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, June 16, 2022
+07:30	  USD		Initial Jobless Claims	229K	215K	232K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (Jun)	-3.3	5.5	2.6	
+Friday, June 17, 2022
+07:45	  USD		Fed Chair Powell Speaks  	 	 	 	
+11:00	  USD		Fed Monetary Policy Report  	 	 	 	
+Monday, June 20, 2022
+All Day	 	Holiday	United States - Juneteenth
+Tuesday, June 21, 2022
+09:00	  USD		Existing Home Sales (May)	5.41M	5.39M	5.60M	
+Wednesday, June 22, 2022
+08:30	  USD		Fed Chair Powell Testifies  	 	 	 	
+Thursday, June 23, 2022
+07:30	  USD		Initial Jobless Claims	229K	227K	231K	
+09:00	  USD		Fed Chair Powell Testifies  	 	 	 	
+Friday, June 24, 2022
+09:00	  USD		New Home Sales (May)	696K	588K	629K	
+Monday, June 27, 2022
+07:30	  USD		Durable Goods Orders (MoM) (May)	0.7%	0.1%	0.4%	
+Tuesday, June 28, 2022
+09:00	  USD		CB Consumer Confidence (Jun)	98.7	100.4	103.2	
+Wednesday, June 29, 2022
+07:30	  USD		GDP (QoQ) (Q1)	-1.6%	-1.5%	-1.5%	
+08:00	  USD		Fed Chair Powell Speaks  	 	 	 	
+Thursday, June 30, 2022
+07:30	  USD		Core PCE Price Index (MoM) (May)	0.3%	0.4%	0.3%	
+07:30	  USD		Core PCE Price Index (YoY) (May)	4.7%	4.8%	4.9%	
+07:30	  USD		Initial Jobless Claims	231K	228K	233K	
+08:45	  USD		Chicago PMI (Jun)	56.0	58.0	60.3	
+Friday, July 1, 2022
+09:00	  USD		ISM Manufacturing PMI (Jun)	53.0	54.9	56.1	
+09:00	  USD		ISM Manufacturing Prices (Jun)	78.5	81.0	82.2	
+Monday, July 4, 2022
+All Day	 	Holiday	United States - Independence Day
+Wednesday, July 6, 2022
+09:00	  USD		ISM Non-Manufacturing PMI (Jun)	55.3	54.3	55.9	
+09:00	  USD		ISM Non-Manufacturing Prices (Jun)	80.1	 	82.1	
+09:00	  USD		JOLTS Job Openings (May)	11.254M	11.000M	11.681M	
+13:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, July 7, 2022
+07:30	  USD		Initial Jobless Claims	235K	230K	231K	
+Friday, July 8, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (Jun)	0.3%	0.3%	0.4%	
+07:30	  USD		Nonfarm Payrolls (Jun)	372K	268K	384K	
+07:30	  USD		Unemployment Rate (Jun)	3.6%	3.6%	3.6%	
+Wednesday, July 13, 2022
+07:30	  USD		Core CPI (MoM) (Jun)	0.7%	0.6%	0.6%	
+07:30	  USD		CPI (MoM) (Jun)	1.3%	1.1%	1.0%	
+07:30	  USD		CPI (YoY) (Jun)	9.1%	8.8%	8.6%	
+Thursday, July 14, 2022
+07:30	  USD		Initial Jobless Claims	244K	235K	235K	
+07:30	  USD		PPI (MoM) (Jun)	1.1%	0.8%	0.9%	
+Friday, July 15, 2022
+07:30	  USD		Core Retail Sales (MoM) (Jun)	1.0%	0.6%	0.6%	
+07:30	  USD		Retail Sales (MoM) (Jun)	1.0%	0.8%	-0.1%	
+Wednesday, July 20, 2022
+09:00	  USD		Existing Home Sales (Jun)	5.12M	5.38M	5.41M	
+Thursday, July 21, 2022
+07:30	  USD		Initial Jobless Claims	251K	240K	244K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (Jul)	-12.3	-2.5	-3.3	
+Tuesday, July 26, 2022
+09:00	  USD		CB Consumer Confidence (Jul)	95.7	97.2	98.4	
+09:00	  USD		New Home Sales (Jun)	590K	660K	642K	
+Wednesday, July 27, 2022
+07:30	  USD		Durable Goods Orders (MoM) (Jun)	1.9%	-0.5%	0.8%	
+13:00	  USD		FOMC Statement  	 	 	 	
+13:00	  USD		Fed Interest Rate Decision	2.50%	2.50%	1.75%	
+13:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, July 28, 2022
+07:30	  USD		GDP (QoQ) (Q2)  	-0.9%	0.5%	-1.6%	
+07:30	  USD		Initial Jobless Claims	256K	253K	261K	
+11:55	  USD		U.S. President Biden Speaks  	 	 	 	
+13:40	  USD		U.S. President Biden Speaks  	 	 	 	
+Friday, July 29, 2022
+07:30	  USD		Core PCE Price Index (MoM) (Jun)	0.6%	0.5%	0.3%	
+07:30	  USD		Core PCE Price Index (YoY) (Jun)	4.8%	4.7%	4.7%	
+08:45	  USD		Chicago PMI (Jul)	52.1	55.0	56.0	
+Monday, August 1, 2022
+09:00	  USD		ISM Manufacturing PMI (Jul)	52.8	52.0	53.0	
+09:00	  USD		ISM Manufacturing Prices (Jul)	60.0	74.3	78.5	
+Tuesday, August 2, 2022
+09:00	  USD		JOLTS Job Openings (Jun)	10.698M	11.000M	11.303M	
+Wednesday, August 3, 2022
+09:00	  USD		ISM Non-Manufacturing PMI (Jul)	56.7	53.5	55.3	
+09:00	  USD		ISM Non-Manufacturing Prices (Jul)	72.3	 	80.1	
+Thursday, August 4, 2022
+07:30	  USD		Initial Jobless Claims	260K	259K	254K	
+Friday, August 5, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (Jul)	0.5%	0.3%	0.4%	
+07:30	  USD		Nonfarm Payrolls (Jul)	528K	250K	398K	
+07:30	  USD		Unemployment Rate (Jul)	3.5%	3.6%	3.6%	
+Wednesday, August 10, 2022
+07:30	  USD		Core CPI (MoM) (Jul)	0.3%	0.5%	0.7%	
+07:30	  USD		CPI (MoM) (Jul)	0.0%	0.2%	1.3%	
+07:30	  USD		CPI (YoY) (Jul)	8.5%	8.7%	9.1%	
+Thursday, August 11, 2022
+07:30	  USD		Initial Jobless Claims	262K	263K	248K	
+07:30	  USD		PPI (MoM) (Jul)	-0.5%	0.2%	1.0%	
+Wednesday, August 17, 2022
+07:30	  USD		Core Retail Sales (MoM) (Jul)	0.4%	-0.1%	0.9%	
+07:30	  USD		Retail Sales (MoM) (Jul)	0.0%	0.1%	0.8%	
+13:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, August 18, 2022
+07:30	  USD		Initial Jobless Claims	250K	265K	252K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (Aug)	6.2	-5.0	-12.3	
+09:00	  USD		Existing Home Sales (Jul)	4.81M	4.89M	5.11M	
+Tuesday, August 23, 2022
+09:00	  USD		New Home Sales (Jul)	511K	575K	585K	
+Wednesday, August 24, 2022
+07:30	  USD		Durable Goods Orders (MoM) (Jul)	0.0%	0.6%	2.0%	
+Thursday, August 25, 2022
+07:30	  USD		GDP (QoQ) (Q2)  	-0.6%	-0.8%	-0.9%	
+07:30	  USD		Initial Jobless Claims	243K	253K	245K	
+Friday, August 26, 2022
+07:30	  USD		Core PCE Price Index (MoM) (Jul)	0.1%	0.3%	0.6%	
+07:30	  USD		Core PCE Price Index (YoY) (Jul)	4.6%	4.7%	4.8%	
+09:00	  USD		Fed Chair Powell Speaks  	 	 	 	
+Tuesday, August 30, 2022
+09:00	  USD		CB Consumer Confidence (Aug)	103.2	97.9	95.3	
+09:00	  USD		JOLTS Job Openings (Jul)	11.239M	10.475M	11.040M	
+Wednesday, August 31, 2022
+07:15	  USD		ADP Nonfarm Employment Change (Aug)	132K	300K	268K	
+08:45	  USD		Chicago PMI (Aug)	52.2	52.0	52.1	
+Thursday, September 1, 2022
+07:30	  USD		Initial Jobless Claims	232K	248K	237K	
+09:00	  USD		ISM Manufacturing PMI (Aug)	52.8	52.0	52.8	
+09:00	  USD		ISM Manufacturing Prices (Aug)	52.5	55.5	60.0	
+Friday, September 2, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (Aug)	0.3%	0.4%	0.5%	
+07:30	  USD		Nonfarm Payrolls (Aug)	315K	300K	526K	
+07:30	  USD		Unemployment Rate (Aug)	3.7%	3.5%	3.5%	
+Monday, September 5, 2022
+All Day	 	Holiday	United States - Labor Day
+Tuesday, September 6, 2022
+09:00	  USD		ISM Non-Manufacturing PMI (Aug)	56.9	55.1	56.7	
+09:00	  USD		ISM Non-Manufacturing Prices (Aug)	71.5	 	72.3	
+Thursday, September 8, 2022
+07:30	  USD		Initial Jobless Claims	222K	240K	228K	
+08:10	  USD		Fed Chair Powell Speaks  	 	 	 	
+Tuesday, September 13, 2022
+07:30	  USD		Core CPI (MoM) (Aug)	0.6%	0.3%	0.3%	
+07:30	  USD		CPI (MoM) (Aug)	0.1%	-0.1%	0.0%	
+07:30	  USD		CPI (YoY) (Aug)	8.3%	8.1%	8.5%	
+Wednesday, September 14, 2022
+07:30	  USD		PPI (MoM) (Aug)	-0.1%	-0.1%	-0.4%	
+Thursday, September 15, 2022
+07:30	  USD		Core Retail Sales (MoM) (Aug)	-0.3%	0.1%	0.4%	
+07:30	  USD		Initial Jobless Claims	213K	226K	218K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (Sep)	-9.9	2.8	6.2	
+07:30	  USD		Retail Sales (MoM) (Aug)	0.3%	0.2%	-0.4%	
+Wednesday, September 21, 2022
+09:00	  USD		Existing Home Sales (Aug)	4.80M	4.70M	4.82M	
+13:00	  USD		FOMC Economic Projections  	 	 	 	
+13:00	  USD		FOMC Statement  	 	 	 	
+13:00	  USD		Fed Interest Rate Decision	3.25%	3.25%	2.50%	
+13:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, September 22, 2022
+07:30	  USD		Initial Jobless Claims	213K	218K	208K	
+Friday, September 23, 2022
+13:00	  USD		Fed Chair Powell Speaks  	 	 	 	
+Tuesday, September 27, 2022
+07:30	  USD		Durable Goods Orders (MoM) (Aug)	-0.2%	-0.4%	-0.1%	
+09:00	  USD		CB Consumer Confidence (Sep)	108.0	104.5	103.6	
+09:00	  USD		New Home Sales (Aug)	685K	500K	532K	
+Wednesday, September 28, 2022
+09:15	  USD		Fed Chair Powell Speaks  	 	 	 	
+Thursday, September 29, 2022
+07:30	  USD		GDP (QoQ) (Q2)	-0.6%	-0.6%	-1.6%	
+07:30	  USD		Initial Jobless Claims	193K	215K	209K	
+Friday, September 30, 2022
+07:30	  USD		Core PCE Price Index (MoM) (Aug)	0.6%	0.5%	0.1%	
+07:30	  USD		Core PCE Price Index (YoY) (Aug)	4.9%	4.7%	4.7%	
+08:45	  USD		Chicago PMI (Sep)	45.7	51.8	52.2	
+Monday, October 3, 2022
+09:00	  USD		ISM Manufacturing PMI (Sep)	50.9	52.2	52.8	
+09:00	  USD		ISM Manufacturing Prices (Sep)	51.7	51.9	52.5	
+Tuesday, October 4, 2022
+09:00	  USD		JOLTS Job Openings (Aug)	10.053M	10.775M	11.170M	
+Wednesday, October 5, 2022
+07:15	  USD		ADP Nonfarm Employment Change (Sep)	208K	200K	185K	
+09:00	  USD		ISM Non-Manufacturing PMI (Sep)	56.7	56.0	56.9	
+09:00	  USD		ISM Non-Manufacturing Prices (Sep)	68.7	 	71.5	
+Thursday, October 6, 2022
+07:30	  USD		Initial Jobless Claims	219K	203K	190K	
+Friday, October 7, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (Sep)	0.3%	0.3%	0.3%	
+07:30	  USD		Nonfarm Payrolls (Sep)	263K	250K	315K	
+07:30	  USD		Unemployment Rate (Sep)	3.5%	3.7%	3.7%	
+Wednesday, October 12, 2022
+07:30	  USD		PPI (MoM) (Sep)	0.4%	0.2%	-0.2%	
+13:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, October 13, 2022
+07:30	  USD		Core CPI (MoM) (Sep)	0.6%	0.5%	0.6%	
+07:30	  USD		CPI (MoM) (Sep)	0.4%	0.2%	0.2%	
+07:30	  USD		CPI (YoY) (Sep)	8.2%	8.1%	8.2%	
+07:30	  USD		Initial Jobless Claims	228K	225K	219K	
+Friday, October 14, 2022
+07:30	  USD		Core Retail Sales (MoM) (Sep)	0.1%	-0.1%	-0.1%	
+07:30	  USD		Retail Sales (MoM) (Sep)	0.0%	0.2%	0.4%	
+Thursday, October 20, 2022
+07:30	  USD		Initial Jobless Claims	214K	230K	226K	
+07:30	  USD		Philadelphia Fed Manufacturing Index (Oct)	-8.7	-5.0	-9.9	
+09:00	  USD		Existing Home Sales (Sep)	4.71M	4.70M	4.78M	
+Tuesday, October 25, 2022
+09:00	  USD		CB Consumer Confidence (Oct)	102.5	106.5	107.8	
+Wednesday, October 26, 2022
+09:00	  USD		New Home Sales (Sep)	603K	585K	677K	
+Thursday, October 27, 2022
+07:30	  USD		Durable Goods Orders (MoM) (Sep)	0.4%	0.6%	0.2%	
+07:30	  USD		GDP (QoQ) (Q3)  	2.6%	2.4%	-0.6%	
+07:30	  USD		Initial Jobless Claims	217K	220K	214K	
+Friday, October 28, 2022
+07:30	  USD		Core PCE Price Index (MoM) (Sep)	0.5%	0.5%	0.5%	
+07:30	  USD		Core PCE Price Index (YoY) (Sep)	5.1%	5.2%	4.9%	
+Monday, October 31, 2022
+08:45	  USD		Chicago PMI (Oct)	45.2	47.0	45.7	
+15:30	  USD		U.S. President Biden Speaks  	 	 	 	
+Tuesday, November 1, 2022
+09:00	  USD		ISM Manufacturing PMI (Oct)	50.2	50.0	50.9	
+09:00	  USD		ISM Manufacturing Prices (Oct)	46.6	52.5	51.7	
+09:00	  USD		JOLTS Job Openings (Sep)	10.717M	10.000M	10.280M	
+Wednesday, November 2, 2022
+07:15	  USD		ADP Nonfarm Employment Change (Oct)	239K	195K	192K	
+13:00	  USD		FOMC Statement  	 	 	 	
+13:00	  USD		Fed Interest Rate Decision	4.00%	4.00%	3.25%	
+13:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, November 3, 2022
+07:30	  USD		Initial Jobless Claims	217K	220K	218K	
+09:00	  USD		ISM Non-Manufacturing PMI (Oct)	54.4	55.5	56.7	
+09:00	  USD		ISM Non-Manufacturing Prices (Oct)	70.7	 	68.7	
+Friday, November 4, 2022
+07:30	  USD		Average Hourly Earnings (MoM) (Oct)	0.4%	0.3%	0.3%	
+07:30	  USD		Nonfarm Payrolls (Oct)	261K	200K	315K	
+07:30	  USD		Unemployment Rate (Oct)	3.7%	3.6%	3.5%	
+Thursday, November 10, 2022
+08:30	  USD		Core CPI (MoM) (Oct)	0.3%	0.5%	0.6%	
+08:30	  USD		CPI (MoM) (Oct)	0.4%	0.6%	0.4%	
+08:30	  USD		CPI (YoY) (Oct)	7.7%	8.0%	8.2%	
+08:30	  USD		Initial Jobless Claims	225K	220K	218K	
+Tuesday, November 15, 2022
+08:30	  USD		PPI (MoM) (Oct)	0.2%	0.4%	0.2%	
+Wednesday, November 16, 2022
+08:30	  USD		Core Retail Sales (MoM) (Oct)	1.3%	0.4%	0.1%	
+08:30	  USD		Retail Sales (MoM) (Oct)	1.3%	1.0%	0.0%	
+Thursday, November 17, 2022
+08:30	  USD		Initial Jobless Claims	222K	225K	226K	
+08:30	  USD		Philadelphia Fed Manufacturing Index (Nov)	-19.4	-6.2	-8.7	
+13:45	  USD		Sec Kashkari Speaks  	 	 	 	
+Friday, November 18, 2022
+10:00	  USD		Existing Home Sales (Oct)	4.43M	4.38M	4.71M	
+Wednesday, November 23, 2022
+08:30	  USD		Durable Goods Orders (MoM) (Oct)	1.0%	0.4%	0.3%	
+08:30	  USD		Initial Jobless Claims	240K	225K	223K	
+10:00	  USD		New Home Sales (Oct)	632K	570K	588K	
+14:00	  USD		FOMC Meeting Minutes  	 	 	 	
+Thursday, November 24, 2022
+All Day	 	Holiday	United States - Thanksgiving Day
+Friday, November 25, 2022
+ 	Holiday	United States - Thanksgiving Day - Early close at 13:00
+Tuesday, November 29, 2022
+10:00	  USD		CB Consumer Confidence (Nov)	100.2	100.0	102.2	
+Wednesday, November 30, 2022
+08:15	  USD		ADP Nonfarm Employment Change (Nov)	127K	200K	239K	
+08:30	  USD		GDP (QoQ) (Q3)  	2.9%	2.7%	2.6%	
+09:45	  USD		Chicago PMI (Nov)	37.2	47.0	45.2	
+10:00	  USD		JOLTS Job Openings (Oct)	10.334M	10.300M	10.687M	
+13:30	  USD		Fed Chair Powell Speaks  	 	 	 	
+Thursday, December 1, 2022
+08:30	  USD		Core PCE Price Index (MoM) (Oct)	0.2%	0.3%	0.5%	
+08:30	  USD		Core PCE Price Index (YoY) (Oct)	5.0%	5.0%	5.2%	
+08:30	  USD		Initial Jobless Claims	225K	235K	241K	
+10:00	  USD		ISM Manufacturing PMI (Nov)	49.0	49.8	50.2	
+10:00	  USD		ISM Manufacturing Prices (Nov)	43.0	47.5	46.6	
+Friday, December 2, 2022
+07:30	  USD		Unemployment Rate (Nov)	3.7%	3.7%	3.7%	
+08:30	  USD		Average Hourly Earnings (MoM) (Nov)	0.6%	0.3%	0.5%	
+08:30	  USD		Nonfarm Payrolls (Nov)	263K	200K	284K	
+Monday, December 5, 2022
+10:00	  USD		ISM Non-Manufacturing PMI (Nov)	56.5	53.3	54.4	
+10:00	  USD		ISM Non-Manufacturing Prices (Nov)	70.0	 	70.7	
+Thursday, December 8, 2022
+08:30	  USD		Initial Jobless Claims	230K	230K	226K	
+Friday, December 9, 2022
+08:30	  USD		PPI (MoM) (Nov)	0.3%	0.2%	0.3%	
+Tuesday, December 13, 2022
+08:30	  USD		Core CPI (MoM) (Nov)	0.2%	0.3%	0.3%	
+08:30	  USD		CPI (MoM) (Nov)	0.1%	0.3%	0.5%	
+08:30	  USD		CPI (YoY) (Nov)	7.1%	7.3%	7.8%	
+Wednesday, December 14, 2022
+14:00	  USD		FOMC Economic Projections  	 	 	 	
+14:00	  USD		FOMC Statement  	 	 	 	
+14:00	  USD		Fed Interest Rate Decision	4.50%	4.50%	4.00%	
+14:30	  USD		FOMC Press Conference  	 	 	 	
+Thursday, December 15, 2022
+08:30	  USD		Core Retail Sales (MoM) (Nov)	-0.2%	0.2%	1.2%	
+08:30	  USD		Initial Jobless Claims	211K	230K	231K	
+08:30	  USD		Philadelphia Fed Manufacturing Index (Dec)	-13.8	-10.0	-19.4	
+08:30	  USD		Retail Sales (MoM) (Nov)	-0.6%	-0.1%	1.3%	
+Wednesday, December 21, 2022
+10:00	  USD		CB Consumer Confidence (Dec)	108.3	101.0	101.4	
+10:00	  USD		Existing Home Sales (Nov)	4.09M	4.20M	4.43M	
+Thursday, December 22, 2022
+08:30	  USD		GDP (QoQ) (Q3)	3.2%	2.9%	-0.6%	
+08:30	  USD		Initial Jobless Claims	216K	222K	214K	
+Friday, December 23, 2022
+08:30	  USD		Core PCE Price Index (MoM) (Nov)	0.2%	0.2%	0.3%	
+08:30	  USD		Core PCE Price Index (YoY) (Nov)	4.7%	4.7%	5.0%	
+08:30	  USD		Durable Goods Orders (MoM) (Nov)	-2.1%	-0.6%	0.7%	
+10:00	  USD		New Home Sales (Nov)	640K	600K	605K	
+Monday, December 26, 2022
+All Day	 	Holiday	United States - Christmas
+Thursday, December 29, 2022
+08:30	  USD		Initial Jobless Claims	225K	225K	216K
+
+00:30	  USD		Investing.com Gold Index	55.5%	 	54.6%	
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct)	0.8%	 	0.8%	
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct)	18.4%	18.5%	19.1%	
+Wednesday, December 29, 2021
+10:00	  USD		Pending Home Sales (MoM) (Nov)	-2.2%	0.5%	7.5%	
+10:30	  USD		Cushing Crude Oil Inventories	1.055M	 	1.463M	
+Thursday, December 30, 2021
+08:30	  USD		Continuing Jobless Claims	1,716K	1,868K	1,856K	
+Monday, January 3, 2022
+10:00	  USD		Construction Spending (MoM) (Nov)	0.4%	0.6%	0.4%	
+15:30	  USD		CFTC Crude Oil speculative net positions	338.4K	 	340.3K	
+15:30	  USD		CFTC Gold speculative net positions	213.2K	 	205.8K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	14.1K	 	25.4K	
+15:30	  USD		CFTC S&P 500 speculative net positions	103.3K	 	136.4K	
+Tuesday, January 4, 2022
+00:30	  USD		Investing.com Gold Index	59.7%	 	55.5%	
+05:00	  USD		OPEC Meeting  	 	 	 	
+10:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+10:00	  USD		ISM Manufacturing Employment (Dec)	54.2	53.5	53.3	
+Wednesday, January 5, 2022
+10:30	  USD		Cushing Crude Oil Inventories	2.577M	 	1.055M	
+Thursday, January 6, 2022
+08:30	  USD		Continuing Jobless Claims	1,754K	1,688K	1,718K	
+10:00	  USD		Factory Orders (MoM) (Nov)	1.6%	1.5%	1.2%	
+10:00	  USD		ISM Non-Manufacturing Employment (Dec)	54.9	 	56.5	
+Friday, January 7, 2022
+08:30	  USD		Average Hourly Earnings (YoY) (YoY) (Dec)	4.7%	4.2%	5.1%	
+08:30	  USD		Participation Rate (Dec)	61.9%	 	61.9%	
+08:30	  USD		Private Nonfarm Payrolls (Dec)	211K	365K	270K	
+08:30	  USD		U6 Unemployment Rate (Dec)	7.3%	 	7.7%	
+10:00	  USD		FOMC Member Daly Speaks  	 	 	 	
+12:15	  USD		FOMC Member Bostic Speaks  	 	 	 	
+15:00	  USD		Consumer Credit (Nov)	39.99B	19.50B	16.01B	
+15:30	  USD		CFTC Crude Oil speculative net positions	332.8K	 	338.4K	
+15:30	  USD		CFTC Gold speculative net positions	211.4K	 	213.2K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	21.7K	 	14.1K	
+15:30	  USD		CFTC S&P 500 speculative net positions	109.0K	 	103.3K	
+Monday, January 10, 2022
+00:30	  USD		Investing.com Gold Index	58.9%	 	59.7%	
+12:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Tuesday, January 11, 2022
+09:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+09:30	  USD		FOMC Member George Speaks  	 	 	 	
+12:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+Wednesday, January 12, 2022
+08:30	  USD		Core CPI (YoY) (Dec)	5.5%	5.4%	4.9%	
+10:00	  USD		FOMC Member Brainard Speaks  	 	 	 	
+10:30	  USD		Cushing Crude Oil Inventories	-2.468M	 	2.577M	
+13:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+14:00	  USD		Beige Book	 	 	 	
+Thursday, January 13, 2022
+08:00	  USD		FOMC Member Harker Speaks  	 	 	 	
+08:30	  USD		Continuing Jobless Claims	1,559K	1,733K	1,753K	
+08:30	  USD		Core PPI (MoM) (Dec)	0.5%	0.5%	0.9%	
+10:00	  USD		FOMC Member Brainard Speaks  	 	 	 	
+Friday, January 14, 2022
+08:30	  USD		Export Price Index (MoM) (Dec)	-1.8%	0.3%	0.8%	
+08:30	  USD		Import Price Index (MoM) (Dec)	-0.2%	0.3%	0.7%	
+08:30	  USD		Retail Control (MoM) (Dec)	-3.1%	0.1%	-0.5%	
+09:15	  USD		Industrial Production (MoM) (Dec)	-0.1%	0.3%	0.7%	
+09:15	  USD		Industrial Production (YoY) (Dec)	3.67%	 	4.98%	
+10:00	  USD		FOMC Member Harker Speaks  	 	 	 	
+10:00	  USD		Michigan 1-Year Inflation Expectations (Jan)  	4.9%	 	4.8%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Jan)  	3.10%	 	2.90%	
+10:00	  USD		Michigan Consumer Expectations (Jan)  	65.9	66.5	68.3	
+10:00	  USD		Michigan Consumer Sentiment (Jan)  	68.8	70.0	70.6	
+11:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+15:30	  USD		CFTC Crude Oil speculative net positions	360.5K	 	332.8K	
+15:30	  USD		CFTC Gold speculative net positions	199.7K	 	211.4K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	21.3K	 	21.7K	
+15:30	  USD		CFTC S&P 500 speculative net positions	77.4K	 	109.0K	
+Monday, January 17, 2022
+All Day	 	Holiday	United States - Martin Luther King, Jr. Day
+00:30	  USD		Investing.com Gold Index	52.8%	 	58.9%	
+Tuesday, January 18, 2022
+08:30	  USD		NY Empire State Manufacturing Index (Jan)	-0.70	25.70	31.90	
+Wednesday, January 19, 2022
+08:30	  USD		Building Permits (Dec)	1.873M	1.701M	1.717M	
+08:30	  USD		Housing Starts (MoM) (Dec)	1.4%	 	8.1%	
+08:30	  USD		Housing Starts (Dec)	1.702M	1.650M	1.678M	
+Thursday, January 20, 2022
+08:30	  USD		Continuing Jobless Claims	1,635K	1,580K	1,551K	
+08:30	  USD		Philly Fed Employment (Jan)	26.1	 	33.9	
+10:00	  USD		Existing Home Sales (MoM) (Dec)	-4.6%	 	2.2%	
+11:00	  USD		Cushing Crude Oil Inventories	-1.314M	 	-2.468M	
+Friday, January 21, 2022
+10:00	  USD		US Leading Index (MoM) (Dec)	0.8%	0.8%	0.7%	
+11:30	  USD		Treasury Secretary Yellen Speaks  	 	 	 	
+15:30	  USD		CFTC Crude Oil speculative net positions	385.8K	 	360.5K	
+15:30	  USD		CFTC Gold speculative net positions	194.2K	 	199.7K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	30.2K	 	21.3K	
+15:30	  USD		CFTC S&P 500 speculative net positions	125.2K	 	77.4K	
+Monday, January 24, 2022
+00:30	  USD		Investing.com Gold Index	54.8%	 	52.8%	
+Tuesday, January 25, 2022
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Nov)	1.0%	 	0.8%	
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Nov)	18.3%	18.0%	18.5%	
+Wednesday, January 26, 2022
+10:00	  USD		New Home Sales (MoM) (Dec)	11.9%	 	11.7%	
+10:30	  USD		Cushing Crude Oil Inventories	-1.823M	 	-1.314M	
+Thursday, January 27, 2022
+08:30	  USD		Continuing Jobless Claims	1,675K	1,650K	1,624K	
+08:30	  USD		Core Durable Goods Orders (MoM) (Dec)	0.4%	0.4%	1.1%	
+08:30	  USD		Core PCE Prices (Q4)  	4.90%	4.90%	4.60%	
+08:30	  USD		GDP Price Index (QoQ) (Q4)  	7.0%	6.0%	5.9%	
+10:00	  USD		Pending Home Sales (MoM) (Dec)	-3.8%	-0.2%	-2.3%	
+Friday, January 28, 2022
+08:30	  USD		Employment Cost Index (QoQ) (Q4)	1.0%	1.2%	1.3%	
+08:30	  USD		PCE Price index (YoY) (Dec)	5.8	 	5.7	
+08:30	  USD		PCE price index (MoM) (Dec)	0.4%	 	0.6%	
+08:30	  USD		Personal Spending (MoM) (Dec)	-0.6%	-0.6%	0.4%	
+10:00	  USD		Michigan 1-Year Inflation Expectations (Jan)	4.9%	4.9%	4.8%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Jan)	3.10%	3.10%	2.90%	
+10:00	  USD		Michigan Consumer Expectations (Jan)	64.1	65.8	68.3	
+10:00	  USD		Michigan Consumer Sentiment (Jan)	67.2	68.7	70.6	
+15:30	  USD		CFTC Crude Oil speculative net positions	373.4K	 	385.8K	
+15:30	  USD		CFTC Gold speculative net positions	220.2K	 	194.2K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	30.1K	 	30.2K	
+15:30	  USD		CFTC S&P 500 speculative net positions	226.8K	 	125.2K	
+Monday, January 31, 2022
+00:30	  USD		Investing.com Gold Index	64.0%	 	54.8%	
+12:40	  USD		FOMC Member George Speaks  	 	 	 	
+Tuesday, February 1, 2022
+10:00	  USD		Construction Spending (MoM) (Dec)	0.2%	0.6%	0.6%	
+10:00	  USD		ISM Manufacturing Employment (Jan)	54.5	53.5	53.9	
+Wednesday, February 2, 2022
+05:00	  USD		OPEC Meeting  	 	 	 	
+10:30	  USD		Cushing Crude Oil Inventories	-1.173M	 	-1.823M	
+Thursday, February 3, 2022
+08:30	  USD		Continuing Jobless Claims	1,628K	1,620K	1,672K	
+08:30	  USD		Nonfarm Productivity (QoQ) (Q4)  	6.6%	3.2%	-5.2%	
+08:30	  USD		Unit Labor Costs (QoQ) (Q4)  	0.3%	1.5%	9.6%	
+10:00	  USD		Factory Orders (MoM) (Dec)	-0.4%	-0.2%	1.8%	
+10:00	  USD		ISM Non-Manufacturing Employment (Jan)	52.3	 	54.7	
+Friday, February 4, 2022
+08:30	  USD		Average Hourly Earnings (YoY) (YoY) (Jan)	5.7%	5.2%	5.0%	
+08:30	  USD		Participation Rate (Jan)	62.2%	 	61.9%	
+08:30	  USD		Payrolls Benchmark, n.s.a.	-7.00K	 	-166.00K	
+08:30	  USD		Private Nonfarm Payrolls (Jan)	444K	150K	503K	
+08:30	  USD		U6 Unemployment Rate (Jan)	7.1%	 	7.3%	
+15:30	  USD		CFTC Crude Oil speculative net positions	368.9K	 	373.4K	
+15:30	  USD		CFTC Gold speculative net positions	172.1K	 	220.2K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	-1.0K	 	30.1K	
+15:30	  USD		CFTC S&P 500 speculative net positions	158.8K	 	226.8K	
+Monday, February 7, 2022
+00:30	  USD		Investing.com Gold Index	50.5%	 	64.0%	
+15:00	  USD		Consumer Credit (Dec)	18.90B	22.00B	38.82B	
+Tuesday, February 8, 2022
+12:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+Wednesday, February 9, 2022
+10:30	  USD		Cushing Crude Oil Inventories	-2.801M	 	-1.173M	
+10:30	  USD		FOMC Member Bowman Speaks  	 	 	 	
+12:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Thursday, February 10, 2022
+08:30	  USD		Continuing Jobless Claims	1,621K	1,615K	1,621K	
+08:30	  USD		Core CPI (YoY) (Jan)	6.0%	5.9%	5.5%	
+Friday, February 11, 2022
+10:00	  USD		Michigan 1-Year Inflation Expectations (Feb)  	5.0%	 	4.9%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Feb)  	3.10%	 	3.10%	
+10:00	  USD		Michigan Consumer Expectations (Feb)  	57.4	 	64.1	
+10:00	  USD		Michigan Consumer Sentiment (Feb)  	61.7	67.5	67.2	
+15:30	  USD		CFTC Crude Oil speculative net positions	363.4K	 	368.9K	
+15:30	  USD		CFTC Gold speculative net positions	186.7K	 	172.1K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	8.0K	 	-1.0K	
+15:30	  USD		CFTC S&P 500 speculative net positions	177.6K	 	158.8K	
+Monday, February 14, 2022
+00:30	  USD		Investing.com Gold Index	56.0%	 	50.5%	
+11:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Tuesday, February 15, 2022
+08:30	  USD		Core PPI (MoM) (Jan)	0.8%	0.5%	0.6%	
+08:30	  USD		NY Empire State Manufacturing Index (Feb)	3.10	12.15	-0.70	
+Wednesday, February 16, 2022
+08:30	  USD		Export Price Index (MoM) (Jan)	2.9%	1.3%	-1.6%	
+08:30	  USD		Import Price Index (MoM) (Jan)	2.0%	1.3%	-0.4%	
+08:30	  USD		Retail Control (MoM) (Jan)	4.8%	1.0%	-4.0%	
+09:15	  USD		Industrial Production (YoY) (Jan)	4.08%	 	3.80%	
+09:15	  USD		Industrial Production (MoM) (Jan)	1.4%	0.4%	-0.1%	
+10:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+10:30	  USD		Cushing Crude Oil Inventories	-1.900M	 	-2.801M	
+Thursday, February 17, 2022
+08:30	  USD		Building Permits (Jan)	1.899M	1.760M	1.885M	
+08:30	  USD		Continuing Jobless Claims	1,593K	1,605K	1,619K	
+08:30	  USD		Housing Starts (MoM) (Jan)	-4.1%	 	0.3%	
+08:30	  USD		Housing Starts (Jan)	1.638M	1.700M	1.708M	
+08:30	  USD		Philly Fed Employment (Feb)	32.3	 	26.1	
+11:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+17:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Friday, February 18, 2022
+10:00	  USD		Existing Home Sales (MoM) (Jan)	6.7%	-1.0%	-3.8%	
+10:00	  USD		US Leading Index (MoM) (Jan)	-0.3%	0.2%	0.7%	
+10:45	  USD		Fed Waller Speaks  	 	 	 	
+11:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+13:30	  USD		FOMC Member Brainard Speaks  	 	 	 	
+15:30	  USD		CFTC Crude Oil speculative net positions	348.1K	 	363.4K	
+15:30	  USD		CFTC Gold speculative net positions	213.6K	 	186.7K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	9.3K	 	8.0K	
+15:30	  USD		CFTC S&P 500 speculative net positions	195.1K	 	177.6K	
+Monday, February 21, 2022
+All Day	 	Holiday	United States - Presidents' Day
+00:30	  USD		Investing.com Gold Index	56.8%	 	56.0%	
+11:15	  USD		FOMC Member Bowman Speaks  	 	 	 	
+Tuesday, February 22, 2022
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Dec)	1.1%	 	1.0%	
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Dec)	18.6%	18.0%	18.3%	
+Thursday, February 24, 2022
+08:30	  USD		Continuing Jobless Claims	1,476K	1,580K	1,588K	
+08:30	  USD		Core PCE Prices (Q4)  	5.00%	4.90%	4.90%	
+08:30	  USD		GDP Price Index (QoQ) (Q4)  	7.2%	6.9%	7.0%	
+10:00	  USD		New Home Sales (MoM) (Jan)	-4.5%	 	12.0%	
+11:00	  USD		Cushing Crude Oil Inventories	-2.049M	 	-1.900M	
+11:10	  USD		FOMC Member Bostic Speaks  	 	 	 	
+12:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+20:00	  USD		Fed Waller Speaks  	 	 	 	
+Friday, February 25, 2022
+08:30	  USD		Core Durable Goods Orders (MoM) (Jan)	0.7%	0.4%	0.9%	
+08:30	  USD		PCE Price index (YoY) (Jan)	6.1	 	5.8	
+08:30	  USD		PCE price index (MoM) (Jan)	0.6%	 	0.5%	
+08:30	  USD		Personal Spending (MoM) (Jan)	2.1%	1.5%	-0.8%	
+10:00	  USD		Michigan 1-Year Inflation Expectations (Feb)	4.9%	5.0%	4.9%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Feb)	3.00%	3.10%	3.10%	
+10:00	  USD		Michigan Consumer Expectations (Feb)	59.4	57.4	64.1	
+10:00	  USD		Michigan Consumer Sentiment (Feb)	62.8	61.7	67.2	
+10:00	  USD		Pending Home Sales (MoM) (Jan)	-5.7%	1.0%	-2.3%	
+15:30	  USD		CFTC Crude Oil speculative net positions	339.0K	 	348.1K	
+15:30	  USD		CFTC Gold speculative net positions	243.1K	 	213.6K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	13.9K	 	9.3K	
+15:30	  USD		CFTC S&P 500 speculative net positions	236.4K	 	195.1K	
+Monday, February 28, 2022
+00:30	  USD		Investing.com Gold Index	60.5%	 	56.8%	
+Tuesday, March 1, 2022
+10:00	  USD		Construction Spending (MoM) (Jan)	1.3%	0.2%	0.8%	
+10:00	  USD		ISM Manufacturing Employment (Feb)	52.9	 	54.5	
+Wednesday, March 2, 2022
+05:00	  USD		OPEC Meeting  	 	 	 	
+09:30	  USD		FOMC Member Bullard Speaks  	 	 	 	
+10:30	  USD		Cushing Crude Oil Inventories	-0.972M	 	-2.049M	
+14:00	  USD		Beige Book	 	 	 	
+Thursday, March 3, 2022
+08:30	  USD		Continuing Jobless Claims	1,476K	1,475K	1,474K	
+08:30	  USD		Nonfarm Productivity (QoQ) (Q4)	6.6%	6.7%	6.6%	
+08:30	  USD		Unit Labor Costs (QoQ) (Q4)	0.9%	0.3%	0.3%	
+10:00	  USD		Factory Orders (MoM) (Jan)	1.4%	0.5%	0.7%	
+10:00	  USD		ISM Non-Manufacturing Employment (Feb)	48.5	 	52.3	
+18:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+Friday, March 4, 2022
+08:30	  USD		Average Hourly Earnings (YoY) (YoY) (Feb)	5.1%	5.8%	5.5%	
+08:30	  USD		Participation Rate (Feb)	62.3%	 	62.2%	
+08:30	  USD		Private Nonfarm Payrolls (Feb)	654K	378K	448K	
+08:30	  USD		U6 Unemployment Rate (Feb)	7.2%	 	7.1%	
+15:30	  USD		CFTC Crude Oil speculative net positions	368.7K	 	339.0K	
+15:30	  USD		CFTC Gold speculative net positions	257.6K	 	243.1K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	12.1K	 	13.9K	
+15:30	  USD		CFTC S&P 500 speculative net positions	161.0K	 	236.4K	
+Monday, March 7, 2022
+00:30	  USD		Investing.com Gold Index	56.9%	 	60.5%	
+15:00	  USD		Consumer Credit (Jan)	6.84B	23.80B	22.38B	
+Tuesday, March 8, 2022
+12:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+Wednesday, March 9, 2022
+10:30	  USD		Cushing Crude Oil Inventories	-0.585M	 	-0.972M	
+Thursday, March 10, 2022
+08:30	  USD		Continuing Jobless Claims	1,494K	1,460K	1,469K	
+08:30	  USD		Core CPI (YoY) (Feb)	6.4%	5.9%	6.0%	
+Friday, March 11, 2022
+10:00	  USD		Michigan 1-Year Inflation Expectations (Mar)  	5.4%	 	4.9%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Mar)  	3.00%	 	3.00%	
+10:00	  USD		Michigan Consumer Expectations (Mar)  	54.4	58.8	59.4	
+10:00	  USD		Michigan Consumer Sentiment (Mar)  	59.7	61.4	62.8	
+15:30	  USD		CFTC Crude Oil speculative net positions	361.7K	 	368.7K	
+15:30	  USD		CFTC Gold speculative net positions	274.4K	 	257.6K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	26.6K	 	12.1K	
+15:30	  USD		CFTC S&P 500 speculative net positions	127.7K	 	161.0K	
+Monday, March 14, 2022
+00:30	  USD		Investing.com Gold Index	59.2%	 	56.9%	
+Tuesday, March 15, 2022
+07:30	  USD		Core PPI (MoM) (Feb)	0.2%	0.6%	1.0%	
+07:30	  USD		NY Empire State Manufacturing Index (Mar)	-11.80	7.00	3.10	
+Wednesday, March 16, 2022
+07:30	  USD		Export Price Index (MoM) (Feb)	3.0%	1.6%	2.8%	
+07:30	  USD		Import Price Index (MoM) (Feb)	1.4%	1.5%	1.9%	
+07:30	  USD		Retail Control (MoM) (Feb)	-1.2%	0.4%	6.7%	
+09:30	  USD		Cushing Crude Oil Inventories	1.786M	 	-0.585M	
+13:00	  USD		Interest Rate Projection - 1st Yr (Q1)	2.80	 	0.90	
+13:00	  USD		Interest Rate Projection - 2nd Yr (Q1)	2.8	 	1.6	
+13:00	  USD		Interest Rate Projection - Current (Q1)	1.9	 	0.1	
+13:00	  USD		Interest Rate Projection - Longer (Q1)	2.4	 	2.5	
+Thursday, March 17, 2022
+07:30	  USD		Building Permits (Feb)  	1.859M	1.850M	1.895M	
+07:30	  USD		Continuing Jobless Claims	1,419K	1,485K	1,490K	
+07:30	  USD		Housing Starts (Feb)	1.769M	1.690M	1.657M	
+07:30	  USD		Housing Starts (MoM) (Feb)	6.8%	 	-5.5%	
+07:30	  USD		Philly Fed Employment (Mar)	38.9	 	32.3	
+08:15	  USD		Industrial Production (MoM) (Feb)	0.5%	0.5%	1.4%	
+08:15	  USD		Industrial Production (YoY) (Feb)	7.45%	 	3.64%	
+Friday, March 18, 2022
+09:00	  USD		Existing Home Sales (MoM) (Feb)	-7.2%	-1.0%	6.6%	
+09:00	  USD		US Leading Index (MoM) (Feb)	0.3%	0.3%	-0.5%	
+14:00	  USD		FOMC Member Bowman Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	341.8K	 	361.7K	
+14:30	  USD		CFTC Gold speculative net positions	261.8K	 	274.4K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	19.0K	 	26.6K	
+14:30	  USD		CFTC S&P 500 speculative net positions	102.2K	 	127.7K	
+Monday, March 21, 2022
+00:30	  USD		Investing.com Gold Index	56.1%	 	59.2%	
+07:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Tuesday, March 22, 2022
+09:35	  USD		FOMC Member Williams Speaks  	 	 	 	
+13:00	  USD		FOMC Member Daly Speaks  	 	 	 	
+16:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Wednesday, March 23, 2022
+08:30	  USD		Building Permits (Feb)	1.351M	 	1.512M	
+09:00	  USD		New Home Sales (MoM) (Feb)	-2.0%	 	-8.4%	
+09:30	  USD		Cushing Crude Oil Inventories	1.235M	 	1.786M	
+10:45	  USD		FOMC Member Daly Speaks  	 	 	 	
+Thursday, March 24, 2022
+07:30	  USD		Continuing Jobless Claims	1,350K	1,410K	1,417K	
+07:30	  USD		Core Durable Goods Orders (MoM) (Feb)	-0.6%	0.6%	0.8%	
+08:10	  USD		Fed Waller Speaks  	 	 	 	
+10:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Friday, March 25, 2022
+09:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Mar)	5.4%	5.4%	4.9%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Mar)	3.00%	 	3.00%	
+09:00	  USD		Michigan Consumer Expectations (Mar)	54.3	54.4	59.4	
+09:00	  USD		Michigan Consumer Sentiment (Mar)	59.4	59.7	62.8	
+09:00	  USD		Pending Home Sales (MoM) (Feb)	-4.1%	1.0%	-5.8%	
+11:00	  USD		Fed Waller Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	340.0K	 	341.8K	
+14:30	  USD		CFTC Gold speculative net positions	248.0K	 	261.8K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	2.8K	 	19.0K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-54.2K	 	102.2K	
+Monday, March 28, 2022
+00:30	  USD		Investing.com Gold Index	54.7%	 	56.1%	
+Tuesday, March 29, 2022
+08:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jan)	19.1%	18.4%	18.6%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jan)	1.4%	 	1.1%	
+09:45	  USD		FOMC Member Harker Speaks  	 	 	 	
+Wednesday, March 30, 2022
+07:30	  USD		Core PCE Prices (Q4)	5.00%	5.00%	4.60%	
+07:30	  USD		GDP Price Index (QoQ) (Q4)	7.1%	7.2%	7.2%	
+09:30	  USD		Cushing Crude Oil Inventories	-1.009M	 	1.235M	
+12:00	  USD		FOMC Member George Speaks  	 	 	 	
+Thursday, March 31, 2022
+05:00	  USD		OPEC Meeting  	 	 	 	
+07:30	  USD		Continuing Jobless Claims	1,307K	1,350K	1,342K	
+07:30	  USD		PCE price index (MoM) (Feb)	0.6%	 	0.5%	
+07:30	  USD		PCE Price index (YoY) (Feb)	6.4	 	6.0	
+07:30	  USD		Personal Spending (MoM) (Feb)	0.2%	0.5%	2.7%	
+08:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+Friday, April 1, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (Mar)	5.6%	5.5%	5.2%	
+07:30	  USD		Participation Rate (Mar)	62.4%	 	62.3%	
+07:30	  USD		Private Nonfarm Payrolls (Mar)	426K	480K	739K	
+07:30	  USD		U6 Unemployment Rate (Mar)	6.9%	 	7.2%	
+09:00	  USD		Construction Spending (MoM) (Feb)	0.5%	1.0%	1.6%	
+09:00	  USD		ISM Manufacturing Employment (Mar)	56.3	 	52.9	
+14:30	  USD		CFTC Crude Oil speculative net positions	318.7K	 	340.0K	
+14:30	  USD		CFTC Gold speculative net positions	257.6K	 	248.0K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	-11.2K	 	2.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-50.9K	 	-54.2K	
+Saturday, April 2, 2022
+12:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+Monday, April 4, 2022
+00:30	  USD		Investing.com Gold Index	59.5%	 	54.7%	
+09:00	  USD		Factory Orders (MoM) (Feb)	-0.5%	-0.5%	1.5%	
+Tuesday, April 5, 2022
+09:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+09:00	  USD		ISM Non-Manufacturing Employment (Mar)	54.0	 	48.5	
+09:05	  USD		FOMC Member Brainard Speaks  	 	 	 	
+13:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+Wednesday, April 6, 2022
+08:30	  USD		FOMC Member Harker Speaks  	 	 	 	
+09:30	  USD		Cushing Crude Oil Inventories	1.654M	 	-1.009M	
+Thursday, April 7, 2022
+07:30	  USD		Continuing Jobless Claims	1,523K	1,311K	1,506K	
+08:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+09:30	  USD		Treasury Secretary Yellen Speaks  	 	 	 	
+13:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+14:00	  USD		Consumer Credit (Feb)	41.82B	16.65B	8.93B	
+15:05	  USD		FOMC Member Williams Speaks  	 	 	 	
+Friday, April 8, 2022
+14:30	  USD		CFTC Crude Oil speculative net positions	308.6K	 	318.7K	
+14:30	  USD		CFTC Gold speculative net positions	245.5K	 	257.6K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	-8.6K	 	-11.2K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-31.7K	 	-50.9K	
+Monday, April 11, 2022
+00:30	  USD		Investing.com Gold Index	53.5%	 	59.5%	
+08:30	  USD		FOMC Member Bostic Speaks  	 	 	 	
+08:30	  USD		FOMC Member Bowman Speaks  	 	 	 	
+11:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+Tuesday, April 12, 2022
+07:30	  USD		Core CPI (YoY) (Mar)	6.5%	6.6%	6.4%	
+11:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+11:10	  USD		FOMC Member Brainard Speaks  	 	 	 	
+Wednesday, April 13, 2022
+07:30	  USD		Core PPI (MoM) (Mar)	1.0%	0.5%	0.4%	
+09:30	  USD		Cushing Crude Oil Inventories	0.450M	 	1.654M	
+Thursday, April 14, 2022
+07:30	  USD		Continuing Jobless Claims	1,475K	1,500K	1,523K	
+07:30	  USD		Export Price Index (MoM) (Mar)	4.5%	2.2%	3.0%	
+07:30	  USD		Import Price Index (MoM) (Mar)	2.6%	2.3%	1.6%	
+07:30	  USD		Retail Control (MoM) (Mar)	-0.1%	0.2%	-0.9%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Apr)  	5.4%	 	5.4%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Apr)  	3.00%	 	3.00%	
+09:00	  USD		Michigan Consumer Expectations (Apr)  	64.1	54.2	54.3	
+09:00	  USD		Michigan Consumer Sentiment (Apr)  	65.7	59.0	59.4	
+14:50	  USD		FOMC Member Mester Speaks  	 	 	 	
+17:00	  USD		FOMC Member Harker Speaks  	 	 	 	
+Friday, April 15, 2022
+All Day	 	Holiday	United States - Good Friday
+07:30	  USD		NY Empire State Manufacturing Index (Apr)	24.60	0.50	-11.80	
+08:15	  USD		Industrial Production (MoM) (Mar)	0.9%	0.4%	0.9%	
+08:15	  USD		Industrial Production (YoY) (Mar)	5.47%	 	7.51%	
+14:30	  USD		CFTC Crude Oil speculative net positions	304.8K	 	308.6K	
+14:30	  USD		CFTC Gold speculative net positions	254.3K	 	245.5K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	13.0K	 	-8.6K	
+14:30	  USD		CFTC S&P 500 speculative net positions	63.0K	 	-31.7K	
+Monday, April 18, 2022
+00:30	  USD		Investing.com Gold Index	57.9%	 	53.5%	
+15:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Tuesday, April 19, 2022
+07:30	  USD		Building Permits (Mar)	1.873M	1.825M	1.865M	
+07:30	  USD		Housing Starts (Mar)	1.793M	1.745M	1.788M	
+07:30	  USD		Housing Starts (MoM) (Mar)	0.3%	 	6.5%	
+Wednesday, April 20, 2022
+09:00	  USD		Existing Home Sales (MoM) (Mar)	-2.7%	 	-8.6%	
+09:30	  USD		Cushing Crude Oil Inventories	-0.185M	 	0.450M	
+09:30	  USD		FOMC Member Daly Speaks  	 	 	 	
+13:00	  USD		Beige Book	 	 	 	
+Thursday, April 21, 2022
+07:30	  USD		Continuing Jobless Claims	1,417K	1,455K	1,475K	
+07:30	  USD		Philly Fed Employment (Apr)	41.4	 	38.9	
+09:00	  USD		US Leading Index (MoM) (Mar)	0.3%	0.3%	0.6%	
+Friday, April 22, 2022
+14:30	  USD		CFTC Crude Oil speculative net positions	307.7K	 	304.8K	
+14:30	  USD		CFTC Gold speculative net positions	239.8K	 	254.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	8.1K	 	13.0K	
+14:30	  USD		CFTC S&P 500 speculative net positions	68.4K	 	63.0K	
+Monday, April 25, 2022
+00:30	  USD		Investing.com Gold Index	56.5%	 	57.9%	
+Tuesday, April 26, 2022
+07:30	  USD		Core Durable Goods Orders (MoM) (Mar)	1.1%	0.6%	-0.5%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Feb)	20.2%	19.0%	18.9%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Feb)	2.4%	 	1.4%	
+09:00	  USD		New Home Sales (MoM) (Mar)	-8.6%	 	-1.2%	
+Wednesday, April 27, 2022
+09:00	  USD		Pending Home Sales (MoM) (Mar)	-1.2%	-1.6%	-4.0%	
+09:30	  USD		Cushing Crude Oil Inventories	1.298M	 	-0.185M	
+Thursday, April 28, 2022
+07:30	  USD		Continuing Jobless Claims	1,408K	1,403K	1,409K	
+07:30	  USD		Core PCE Prices (Q1)  	5.20%	5.40%	5.00%	
+07:30	  USD		GDP Price Index (QoQ) (Q1)  	8.0%	7.3%	7.1%	
+Friday, April 29, 2022
+07:30	  USD		Employment Cost Index (QoQ) (Q1)	1.4%	1.1%	1.0%	
+07:30	  USD		PCE price index (MoM) (Mar)	0.9%	 	0.5%	
+07:30	  USD		PCE Price index (YoY) (Mar)	6.6	 	6.3	
+07:30	  USD		Personal Spending (MoM) (Mar)	1.1%	0.7%	0.6%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Apr)	5.4%	5.4%	5.4%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Apr)	3.00%	3.00%	3.00%	
+09:00	  USD		Michigan Consumer Expectations (Apr)	62.5	64.1	54.3	
+09:00	  USD		Michigan Consumer Sentiment (Apr)	65.2	65.7	59.4	
+14:30	  USD		CFTC Crude Oil speculative net positions	316.1K	 	307.7K	
+14:30	  USD		CFTC Gold speculative net positions	218.0K	 	239.8K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	15.8K	 	8.1K	
+14:30	  USD		CFTC S&P 500 speculative net positions	122.8K	 	68.4K	
+Monday, May 2, 2022
+00:30	  USD		Investing.com Gold Index	54.2%	 	56.5%	
+09:00	  USD		Construction Spending (MoM) (Mar)	0.1%	0.7%	0.5%	
+09:00	  USD		ISM Manufacturing Employment (Apr)	50.9	56.0	56.3	
+Tuesday, May 3, 2022
+09:00	  USD		Factory Orders (MoM) (Mar)	2.2%	1.1%	0.1%	
+Wednesday, May 4, 2022
+09:00	  USD		ISM Non-Manufacturing Employment (Apr)	49.5	 	54.0	
+09:30	  USD		Cushing Crude Oil Inventories	1.379M	 	1.298M	
+Thursday, May 5, 2022
+05:00	  USD		OPEC Meeting  	 	 	 	
+07:30	  USD		Continuing Jobless Claims	1,384K	1,400K	1,403K	
+07:30	  USD		Nonfarm Productivity (QoQ) (Q1)  	-7.5%	-5.4%	6.3%	
+07:30	  USD		Unit Labor Costs (QoQ) (Q1)  	11.6%	9.9%	0.9%	
+Friday, May 6, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (Apr)	5.5%	5.5%	5.6%	
+07:30	  USD		Participation Rate (Apr)	62.2%	 	62.4%	
+07:30	  USD		Private Nonfarm Payrolls (Apr)	406K	385K	424K	
+07:30	  USD		U6 Unemployment Rate (Apr)	7.0%	 	6.9%	
+08:15	  USD		FOMC Member Williams Speaks  	 	 	 	
+10:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+14:00	  USD		Consumer Credit (Mar)	52.43B	25.00B	37.70B	
+14:20	  USD		FOMC Member Bostic Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	321.7K	 	316.1K	
+14:30	  USD		CFTC Gold speculative net positions	199.2K	 	218.0K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	16.1K	 	15.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	52.2K	 	122.8K	
+18:15	  USD		Fed Waller Speaks  	 	 	 	
+18:15	  USD		FOMC Member Bullard Speaks  	 	 	 	
+19:00	  USD		FOMC Member Daly Speaks  	 	 	 	
+Saturday, May 7, 2022
+18:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Sunday, May 8, 2022
+18:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Monday, May 9, 2022
+00:30	  USD		Investing.com Gold Index	55.8%	 	54.2%	
+07:45	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Tuesday, May 10, 2022
+06:40	  USD		FOMC Member Williams Speaks  	 	 	 	
+07:30	  USD		FOMC Member Bostic Speaks  	 	 	 	
+11:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+12:00	  USD		Fed Waller Speaks  	 	 	 	
+12:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+14:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+18:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Wednesday, May 11, 2022
+07:30	  USD		Core CPI (YoY) (Apr)	6.2%	6.0%	6.5%	
+09:30	  USD		Cushing Crude Oil Inventories	-0.587M	 	1.379M	
+11:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Thursday, May 12, 2022
+07:30	  USD		Continuing Jobless Claims	1,343K	1,380K	1,387K	
+07:30	  USD		Core PPI (MoM) (Apr)	0.4%	0.6%	1.2%	
+14:00	  USD		FOMC Member Daly Speaks  	 	 	 	
+Friday, May 13, 2022
+07:30	  USD		Export Price Index (MoM) (Apr)	0.6%	0.7%	4.1%	
+07:30	  USD		Import Price Index (MoM) (Apr)	0.0%	0.6%	2.9%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (May)  	5.4%	 	5.4%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (May)  	3.00%	 	3.00%	
+09:00	  USD		Michigan Consumer Expectations (May)  	56.3	63.0	62.5	
+09:00	  USD		Michigan Consumer Sentiment (May)  	59.1	64.0	65.2	
+10:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+11:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	310.8K	 	321.7K	
+14:30	  USD		CFTC Gold speculative net positions	193.3K	 	199.2K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	13.5K	 	16.1K	
+14:30	  USD		CFTC S&P 500 speculative net positions	121.8K	 	52.2K	
+Monday, May 16, 2022
+00:30	  USD		Investing.com Gold Index	59.7%	 	55.8%	
+07:30	  USD		NY Empire State Manufacturing Index (May)	-11.60	17.00	24.60	
+07:55	  USD		FOMC Member Williams Speaks  	 	 	 	
+Tuesday, May 17, 2022
+07:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+07:30	  USD		Retail Control (MoM) (Apr)	1.0%	0.5%	1.1%	
+08:15	  USD		Industrial Production (YoY) (Apr)	6.40%	 	5.36%	
+08:15	  USD		Industrial Production (MoM) (Apr)	1.1%	0.5%	0.9%	
+13:30	  USD		FOMC Member Mester Speaks  	 	 	 	
+15:00	  USD		FOMC Member Harker Speaks  	 	 	 	
+Wednesday, May 18, 2022
+07:30	  USD		Building Permits (Apr)	1.819M	1.812M	1.879M	
+07:30	  USD		Housing Starts (Apr)	1.724M	1.765M	1.728M	
+07:30	  USD		Housing Starts (MoM) (Apr)	-0.2%	 	-2.8%	
+09:30	  USD		Cushing Crude Oil Inventories	-2.403M	 	-0.587M	
+Thursday, May 19, 2022
+07:30	  USD		Continuing Jobless Claims	1,317K	1,320K	1,342K	
+07:30	  USD		Philly Fed Employment (May)	25.5	 	41.4	
+09:00	  USD		Existing Home Sales (MoM) (Apr)	-2.4%	 	-3.0%	
+09:00	  USD		US Leading Index (MoM) (Apr)	-0.3%	0.3%	0.1%	
+Friday, May 20, 2022
+14:30	  USD		CFTC Crude Oil speculative net positions	325.6K	 	310.8K	
+14:30	  USD		CFTC Gold speculative net positions	175.4K	 	193.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	15.2K	 	13.5K	
+14:30	  USD		CFTC S&P 500 speculative net positions	66.6K	 	121.8K	
+Monday, May 23, 2022
+00:30	  USD		Investing.com Gold Index	54.9%	 	59.7%	
+11:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+18:30	  USD		FOMC Member George Speaks  	 	 	 	
+Tuesday, May 24, 2022
+09:00	  USD		New Home Sales (MoM) (Apr)	-16.6%	 	-10.5%	
+Wednesday, May 25, 2022
+07:30	  USD		Core Durable Goods Orders (MoM) (Apr)	0.3%	0.6%	1.1%	
+09:30	  USD		Cushing Crude Oil Inventories	-1.061M	 	-2.403M	
+11:15	  USD		FOMC Member Brainard Speaks  	 	 	 	
+Thursday, May 26, 2022
+07:30	  USD		Continuing Jobless Claims	1,346K	1,310K	1,315K	
+07:30	  USD		Core PCE Prices (Q1)	5.10%	5.20%	5.00%	
+07:30	  USD		GDP Price Index (QoQ) (Q1)  	8.1%	8.0%	8.0%	
+09:00	  USD		Pending Home Sales (MoM) (Apr)	-3.9%	-2.0%	-1.6%	
+Friday, May 27, 2022
+06:35	  USD		FOMC Member Bullard Speaks  	 	 	 	
+07:30	  USD		PCE price index (MoM) (Apr)	0.2%	 	0.9%	
+07:30	  USD		PCE Price index (YoY) (Apr)	6.3	 	6.6	
+07:30	  USD		Personal Spending (MoM) (Apr)	0.9%	0.7%	1.4%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (May)	5.3%	5.4%	5.4%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (May)	3.00%	3.00%	3.00%	
+09:00	  USD		Michigan Consumer Expectations (May)	55.2	56.3	62.5	
+09:00	  USD		Michigan Consumer Sentiment (May)	58.4	59.1	65.2	
+14:30	  USD		CFTC Crude Oil speculative net positions	334.8K	 	325.6K	
+14:30	  USD		CFTC Gold speculative net positions	183.8K	 	175.4K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	13.7K	 	15.2K	
+14:30	  USD		CFTC S&P 500 speculative net positions	48.9K	 	66.6K	
+Monday, May 30, 2022
+All Day	 	Holiday	United States - Memorial Day
+00:30	  USD		Investing.com Gold Index	59.0%	 	54.9%	
+10:00	  USD		Fed Waller Speaks  	 	 	 	
+Tuesday, May 31, 2022
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Mar)	21.2%	20.0%	20.3%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Mar)	3.1%	 	2.4%	
+Wednesday, June 1, 2022
+09:00	  USD		Construction Spending (MoM) (Apr)	0.2%	0.5%	0.3%	
+09:00	  USD		ISM Manufacturing Employment (May)	49.6	56.0	50.9	
+10:30	  USD		FOMC Member Williams Speaks  	 	 	 	
+12:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+13:00	  USD		Beige Book	 	 	 	
+Thursday, June 2, 2022
+05:00	  USD		OPEC Meeting  	 	 	 	
+07:30	  USD		Continuing Jobless Claims	1,309K	1,325K	1,343K	
+07:30	  USD		Nonfarm Productivity (QoQ) (Q1)	-7.3%	-7.5%	-7.5%	
+07:30	  USD		Unit Labor Costs (QoQ) (Q1)	12.6%	11.6%	11.6%	
+09:00	  USD		Factory Orders (MoM) (Apr)	0.3%	0.7%	1.8%	
+10:00	  USD		Cushing Crude Oil Inventories	0.256M	 	-1.061M	
+12:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Friday, June 3, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (May)	5.2%	5.2%	5.5%	
+07:30	  USD		Participation Rate (May)	62.3%	 	62.2%	
+07:30	  USD		Private Nonfarm Payrolls (May)	333K	325K	405K	
+07:30	  USD		U6 Unemployment Rate (May)	7.1%	 	7.0%	
+09:00	  USD		ISM Non-Manufacturing Employment (May)	50.2	 	49.5	
+09:30	  USD		FOMC Member Brainard Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	333.0K	 	334.8K	
+14:30	  USD		CFTC Gold speculative net positions	172.6K	 	183.8K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	5.6K	 	13.7K	
+14:30	  USD		CFTC S&P 500 speculative net positions	21.9K	 	48.9K	
+Monday, June 6, 2022
+00:30	  USD		Investing.com Gold Index	55.6%	 	59.0%	
+Tuesday, June 7, 2022
+09:00	  USD		Treasury Secretary Yellen Speaks  	 	 	 	
+11:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+14:00	  USD		Consumer Credit (Apr)	38.07B	35.00B	47.34B	
+Wednesday, June 8, 2022
+09:30	  USD		Cushing Crude Oil Inventories	-1.593M	 	0.256M	
+Thursday, June 9, 2022
+07:30	  USD		Continuing Jobless Claims	1,306K	1,305K	1,306K	
+Friday, June 10, 2022
+07:30	  USD		Core CPI (YoY) (May)	6.0%	5.9%	6.2%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Jun)  	5.4%	 	5.3%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Jun)  	3.30%	 	3.00%	
+09:00	  USD		Michigan Consumer Expectations (Jun)  	46.8	54.5	55.2	
+09:00	  USD		Michigan Consumer Sentiment (Jun)  	50.2	58.0	58.4	
+14:30	  USD		CFTC Crude Oil speculative net positions	328.3K	 	333.0K	
+14:30	  USD		CFTC Gold speculative net positions	175.3K	 	172.6K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	17.0K	 	5.6K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-17.0K	 	21.9K	
+Monday, June 13, 2022
+00:30	  USD		Investing.com Gold Index	57.5%	 	55.6%	
+10:00	  USD		NY Fed 1-Year Consumer Inflation Expectations	6.6%	 	6.3%	
+13:00	  USD		FOMC Member Brainard Speaks  	 	 	 	
+Tuesday, June 14, 2022
+07:30	  USD		Core PPI (MoM) (May)	0.5%	0.6%	0.2%	
+Wednesday, June 15, 2022
+07:30	  USD		Export Price Index (MoM) (May)	2.8%	1.3%	0.8%	
+07:30	  USD		Import Price Index (MoM) (May)	0.6%	1.1%	0.4%	
+07:30	  USD		NY Empire State Manufacturing Index (Jun)	-1.20	3.00	-11.60	
+07:30	  USD		Retail Control (MoM) (May)	0.0%	0.5%	0.5%	
+09:30	  USD		Cushing Crude Oil Inventories	-0.826M	 	-1.593M	
+13:00	  USD		Interest Rate Projection - 1st Yr (Q2)	3.80	 	2.80	
+13:00	  USD		Interest Rate Projection - 2nd Yr (Q2)	3.4	 	2.8	
+13:00	  USD		Interest Rate Projection - Current (Q2)	3.4	 	1.9	
+13:00	  USD		Interest Rate Projection - Longer (Q2)	2.5	 	2.4	
+Thursday, June 16, 2022
+07:30	  USD		Building Permits (May)	1.695M	1.785M	1.823M	
+07:30	  USD		Continuing Jobless Claims	1,312K	1,302K	1,309K	
+07:30	  USD		Housing Starts (May)	1.549M	1.701M	1.810M	
+07:30	  USD		Housing Starts (MoM) (May)	-14.4%	 	5.5%	
+07:30	  USD		Philly Fed Employment (Jun)	28.1	 	25.5	
+Friday, June 17, 2022
+08:15	  USD		Industrial Production (MoM) (May)	0.2%	0.4%	1.4%	
+08:15	  USD		Industrial Production (YoY) (May)	5.83%	 	6.29%	
+09:00	  USD		US Leading Index (MoM) (May)	-0.4%	-0.4%	-0.4%	
+14:30	  USD		CFTC Crude Oil speculative net positions	302.9K	 	328.3K	
+14:30	  USD		CFTC Gold speculative net positions	154.6K	 	175.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	28.4K	 	17.0K	
+14:30	  USD		CFTC S&P 500 speculative net positions	34.3K	 	-17.0K	
+Saturday, June 18, 2022
+03:40	  USD		Fed Waller Speaks  	 	 	 	
+Monday, June 20, 2022
+All Day	 	Holiday	United States - Juneteenth
+00:30	  USD		Investing.com Gold Index	53.5%	 	57.5%	
+11:45	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Tuesday, June 21, 2022
+09:00	  USD		Existing Home Sales (MoM) (May)	-3.4%	 	-2.6%	
+11:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Wednesday, June 22, 2022
+10:30	  USD		FOMC Member Harker Speaks  	 	 	 	
+12:30	  USD		FOMC Member Harker Speaks  	 	 	 	
+Thursday, June 23, 2022
+07:30	  USD		Continuing Jobless Claims	1,315K	1,315K	1,310K	
+15:30	  USD		Fed Bank Stress Test Results  	 	 	 	
+Friday, June 24, 2022
+06:30	  USD		FOMC Member Bullard Speaks  	 	 	 	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Jun)	5.3%	 	5.4%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Jun)	3.10%	 	3.30%	
+09:00	  USD		Michigan Consumer Expectations (Jun)	47.5	 	46.8	
+09:00	  USD		Michigan Consumer Sentiment (Jun)	50.0	50.2	50.2	
+09:00	  USD		New Home Sales (MoM) (May)	10.7%	 	-12.0%	
+14:30	  USD		CFTC Crude Oil speculative net positions	289.5K	 	302.9K	
+14:30	  USD		CFTC Gold speculative net positions	163.3K	 	154.6K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	30.8K	 	28.4K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-114.3K	 	34.3K	
+Monday, June 27, 2022
+00:30	  USD		Investing.com Gold Index	60.5%	 	53.5%	
+00:30	  USD		Investing.com S&P 500 Index	30.4%	 	62.9%	
+07:30	  USD		Core Durable Goods Orders (MoM) (May)	0.7%	0.3%	0.2%	
+09:00	  USD		Pending Home Sales (MoM) (May)	0.7%	-3.7%	-4.0%	
+17:30	  USD		FOMC Member Williams Speaks  	 	 	 	
+Tuesday, June 28, 2022
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Apr)	21.2%	21.0%	21.1%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Apr)	2.3%	 	3.1%	
+Wednesday, June 29, 2022
+05:30	  USD		FOMC Member Mester Speaks  	 	 	 	
+07:30	  USD		Core PCE Prices (Q1)	5.20%	5.10%	5.00%	
+07:30	  USD		GDP Price Index (QoQ) (Q1)	8.3%	8.1%	8.1%	
+09:25	  USD		Cushing Crude Oil Inventories	-0.572M	 	-0.826M	
+09:30	  USD		Cushing Crude Oil Inventories	-0.782M	 	-0.572M	
+12:05	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Thursday, June 30, 2022
+Tentative	  USD		OPEC Meeting  	 	 	 	
+07:30	  USD		Continuing Jobless Claims	1,328K	1,310K	1,331K	
+07:30	  USD		PCE price index (MoM) (May)	0.6%	 	0.2%	
+07:30	  USD		PCE Price index (YoY) (May)	6.3	 	6.3	
+07:30	  USD		Personal Spending (MoM) (May)	0.2%	0.4%	0.6%	
+Friday, July 1, 2022
+09:00	  USD		Construction Spending (MoM) (May)	-0.1%	0.4%	0.8%	
+09:00	  USD		ISM Manufacturing Employment (Jun)	47.3	 	49.6	
+14:30	  USD		CFTC Crude Oil speculative net positions	299.7K	 	289.5K	
+14:30	  USD		CFTC Gold speculative net positions	157.7K	 	163.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	24.2K	 	30.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-139.2K	 	-114.3K	
+Monday, July 4, 2022
+All Day	 	Holiday	United States - Independence Day
+00:30	  USD		Investing.com Gold Index	59.5%	 	60.5%	
+00:30	  USD		Investing.com S&P 500 Index	33.0%	 	30.4%	
+Tuesday, July 5, 2022
+09:00	  USD		Factory Orders (MoM) (May)	1.6%	0.5%	0.7%	
+Wednesday, July 6, 2022
+08:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+09:00	  USD		ISM Non-Manufacturing Employment (Jun)	47.4	 	50.2	
+Thursday, July 7, 2022
+07:30	  USD		Continuing Jobless Claims	1,375K	1,327K	1,324K	
+10:00	  USD		Cushing Crude Oil Inventories	0.069M	 	-0.782M	
+12:00	  USD		Fed Waller Speaks  	 	 	 	
+12:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Friday, July 8, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (Jun)	5.1%	5.0%	5.3%	
+07:30	  USD		Participation Rate (Jun)	62.2%	 	62.3%	
+07:30	  USD		Private Nonfarm Payrolls (Jun)	381K	240K	336K	
+07:30	  USD		U6 Unemployment Rate (Jun)	6.7%	 	7.1%	
+10:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+14:00	  USD		Consumer Credit (May)	22.35B	31.90B	36.76B	
+14:30	  USD		CFTC Crude Oil speculative net positions	280.5K	 	299.7K	
+14:30	  USD		CFTC Gold speculative net positions	145.7K	 	157.7K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	30.9K	 	24.2K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-183.7K	 	-139.2K	
+Monday, July 11, 2022
+10:00	  USD		NY Fed 1-Year Consumer Inflation Expectations	6.8%	 	6.6%	
+13:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+Tuesday, July 12, 2022
+11:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+Wednesday, July 13, 2022
+07:30	  USD		Core CPI (YoY) (Jun)	5.9%	5.7%	6.0%	
+09:30	  USD		Cushing Crude Oil Inventories	0.316M	 	0.069M	
+13:00	  USD		Beige Book	 	 	 	
+Thursday, July 14, 2022
+07:30	  USD		Continuing Jobless Claims	1,331K	1,383K	1,372K	
+07:30	  USD		Core PPI (MoM) (Jun)	0.4%	0.5%	0.6%	
+10:00	  USD		Fed Waller Speaks  	 	 	 	
+Friday, July 15, 2022
+07:30	  USD		Export Price Index (MoM) (Jun)	0.7%	1.2%	2.9%	
+07:30	  USD		Import Price Index (MoM) (Jun)	0.2%	0.7%	0.5%	
+07:30	  USD		NY Empire State Manufacturing Index (Jul)	11.10	-2.00	-1.20	
+07:30	  USD		Retail Control (MoM) (Jun)	0.8%	0.3%	-0.3%	
+07:45	  USD		FOMC Member Bostic Speaks  	 	 	 	
+08:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+08:15	  USD		Industrial Production (MoM) (Jun)	-0.2%	0.1%	0.1%	
+08:15	  USD		Industrial Production (YoY) (Jun)	4.16%	 	4.81%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Jul)  	5.2%	 	5.3%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Jul)  	2.80%	 	3.10%	
+09:00	  USD		Michigan Consumer Expectations (Jul)  	47.3	47.0	47.5	
+09:00	  USD		Michigan Consumer Sentiment (Jul)  	51.1	49.9	50.0	
+14:30	  USD		CFTC Crude Oil speculative net positions	268.3K	 	280.5K	
+14:30	  USD		CFTC Gold speculative net positions	118.1K	 	145.7K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	19.4K	 	30.9K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-215.5K	 	-183.7K	
+Tuesday, July 19, 2022
+07:30	  USD		Building Permits (Jun)	1.685M	1.650M	1.695M	
+07:30	  USD		Housing Starts (Jun)	1.559M	1.580M	1.591M	
+07:30	  USD		Housing Starts (MoM) (Jun)	-2.0%	 	-11.9%	
+13:35	  USD		FOMC Member Brainard Speaks  	 	 	 	
+Wednesday, July 20, 2022
+09:00	  USD		Existing Home Sales (MoM) (Jun)	-5.4%	 	-3.4%	
+09:30	  USD		Cushing Crude Oil Inventories	1.143M	 	0.316M	
+Thursday, July 21, 2022
+07:30	  USD		Continuing Jobless Claims	1,384K	1,340K	1,333K	
+07:30	  USD		Philly Fed Employment (Jul)	19.4	 	28.1	
+09:00	  USD		US Leading Index (MoM) (Jun)	-0.8%	-0.5%	-0.6%	
+Friday, July 22, 2022
+14:30	  USD		CFTC Crude Oil speculative net positions	271.1K	 	268.3K	
+14:30	  USD		CFTC Gold speculative net positions	95.0K	 	118.1K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	28.1K	 	19.4K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-208.1K	 	-215.5K	
+Tuesday, July 26, 2022
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (May)	20.5%	20.6%	21.2%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (May)	1.5%	 	2.2%	
+09:00	  USD		New Home Sales (MoM) (Jun)	-8.1%	 	6.3%	
+Wednesday, July 27, 2022
+07:30	  USD		Core Durable Goods Orders (MoM) (Jun)	0.3%	0.2%	0.5%	
+09:00	  USD		Pending Home Sales (MoM) (Jun)	-8.6%	-1.5%	0.4%	
+09:30	  USD		Cushing Crude Oil Inventories	0.751M	 	1.143M	
+Thursday, July 28, 2022
+07:30	  USD		Continuing Jobless Claims	1,359K	1,380K	1,384K	
+07:30	  USD		Core PCE Prices (Q2)	4.40%	4.50%	5.20%	
+07:30	  USD		GDP Price Index (QoQ) (Q2)  	8.9%	7.9%	8.3%	
+12:32	  USD		Treasury Secretary Yellen Speaks  	 	 	 	
+Friday, July 29, 2022
+07:30	  USD		Employment Cost Index (QoQ) (Q2)	1.3%	1.2%	1.4%	
+07:30	  USD		PCE price index (MoM) (Jun)	1.0%	0.9%	0.6%	
+07:30	  USD		PCE Price index (YoY) (Jun)	6.8%	6.8%	6.3%	
+07:30	  USD		Personal Spending (MoM) (Jun)	1.1%	0.9%	0.3%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Jul)	5.2%	5.2%	5.3%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Jul)	2.90%	2.80%	3.10%	
+09:00	  USD		Michigan Consumer Expectations (Jul)	47.3	47.3	47.5	
+09:00	  USD		Michigan Consumer Sentiment (Jul)	51.5	51.1	50.0	
+14:30	  USD		CFTC Crude Oil speculative net positions	259.3K	 	271.1K	
+14:30	  USD		CFTC Gold speculative net positions	92.7K	 	95.0K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	31.8K	 	28.1K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-237.6K	 	-208.1K	
+Monday, August 1, 2022
+09:00	  USD		Construction Spending (MoM) (Jun)	-1.1%	0.2%	0.1%	
+09:00	  USD		ISM Manufacturing Employment (Jul)	49.9	 	47.3	
+Tuesday, August 2, 2022
+17:45	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Wednesday, August 3, 2022
+05:00	  USD		OPEC Meeting  	 	 	 	
+09:00	  USD		Factory Orders (MoM) (Jun)	2.0%	1.1%	1.8%	
+09:00	  USD		ISM Non-Manufacturing Employment (Jul)	49.1	 	47.4	
+09:30	  USD		Cushing Crude Oil Inventories	0.926M	 	0.751M	
+09:30	  USD		FOMC Member Harker Speaks  	 	 	 	
+Thursday, August 4, 2022
+07:30	  USD		Continuing Jobless Claims	1,416K	1,370K	1,368K	
+11:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Friday, August 5, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (Jul)	5.2%	4.9%	5.2%	
+07:30	  USD		Participation Rate (Jul)	62.1%	 	62.2%	
+07:30	  USD		Private Nonfarm Payrolls (Jul)	471K	230K	404K	
+07:30	  USD		U6 Unemployment Rate (Jul)	6.7%	 	6.7%	
+14:00	  USD		Consumer Credit (Jun)	40.15B	25.00B	23.79B	
+14:30	  USD		CFTC Crude Oil speculative net positions	253.8K	 	259.3K	
+14:30	  USD		CFTC Gold speculative net positions	124.3K	 	92.7K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	24.7K	 	31.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-231.9K	 	-237.6K	
+Monday, August 8, 2022
+10:00	  USD		NY Fed 1-Year Consumer Inflation Expectations	6.2%	 	6.8%	
+Tuesday, August 9, 2022
+07:30	  USD		Nonfarm Productivity (QoQ) (Q2)  	-4.6%	-4.7%	-7.4%	
+07:30	  USD		Unit Labor Costs (QoQ) (Q2)  	10.8%	9.5%	12.7%	
+11:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+Wednesday, August 10, 2022
+07:30	  USD		Core CPI (YoY) (Jul)	5.9%	6.1%	5.9%	
+09:30	  USD		Cushing Crude Oil Inventories	0.723M	 	0.926M	
+Thursday, August 11, 2022
+07:30	  USD		Continuing Jobless Claims	1,428K	1,407K	1,420K	
+07:30	  USD		Core PPI (MoM) (Jul)	0.2%	0.4%	0.4%	
+Friday, August 12, 2022
+07:30	  USD		Export Price Index (MoM) (Jul)	-3.3%	-1.1%	0.7%	
+07:30	  USD		Import Price Index (MoM) (Jul)	-1.4%	-1.0%	0.3%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Aug)  	5.0%	5.1%	5.2%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Aug)  	3.00%	2.80%	2.90%	
+09:00	  USD		Michigan Consumer Expectations (Aug)  	54.9	48.4	47.3	
+09:00	  USD		Michigan Consumer Sentiment (Aug)  	55.1	52.5	51.5	
+14:30	  USD		CFTC Crude Oil speculative net positions	210.7K	 	253.8K	
+14:30	  USD		CFTC Gold speculative net positions	142.9K	 	124.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	21.1K	 	24.7K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-244.3K	 	-231.9K	
+Monday, August 15, 2022
+07:30	  USD		NY Empire State Manufacturing Index (Aug)	-31.30	5.50	11.10	
+Tuesday, August 16, 2022
+07:30	  USD		Building Permits (Jul)	1.674M	1.650M	1.696M	
+07:30	  USD		Housing Starts (Jul)	1.446M	1.540M	1.599M	
+07:30	  USD		Housing Starts (MoM) (Jul)	-9.6%	 	2.4%	
+08:15	  USD		Industrial Production (MoM) (Jul)	0.6%	0.3%	-0.2%	
+08:15	  USD		Industrial Production (YoY) (Jul)	3.90%	 	4.02%	
+Wednesday, August 17, 2022
+07:30	  USD		Retail Control (MoM) (Jul)	0.8%	0.6%	0.7%	
+08:30	  USD		FOMC Member Bowman Speaks  	 	 	 	
+09:30	  USD		Cushing Crude Oil Inventories	0.192M	 	0.723M	
+13:20	  USD		FOMC Member Bowman Speaks  	 	 	 	
+Thursday, August 18, 2022
+07:30	  USD		Continuing Jobless Claims	1,437K	1,438K	1,430K	
+07:30	  USD		Philly Fed Employment (Aug)	24.1	 	19.4	
+09:00	  USD		Existing Home Sales (MoM) (Jul)	-5.9%	 	-5.5%	
+09:00	  USD		US Leading Index (MoM) (Jul)	-0.4%	-0.5%	-0.7%	
+12:20	  USD		FOMC Member George Speaks  	 	 	 	
+12:45	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+Friday, August 19, 2022
+14:30	  USD		CFTC Crude Oil speculative net positions	214.9K	 	210.7K	
+14:30	  USD		CFTC Gold speculative net positions	141.2K	 	142.9K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	6.8K	 	21.1K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-288.0K	 	-244.3K	
+Tuesday, August 23, 2022
+09:00	  USD		New Home Sales (MoM) (Jul)	-12.6%	 	-7.1%	
+18:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+Wednesday, August 24, 2022
+07:30	  USD		Core Durable Goods Orders (MoM) (Jul)	0.3%	0.2%	0.3%	
+09:00	  USD		Pending Home Sales (MoM) (Jul)	-1.0%	-4.0%	-8.9%	
+09:30	  USD		Cushing Crude Oil Inventories	0.426M	 	0.192M	
+Thursday, August 25, 2022
+06:30	  USD		FOMC Member George Speaks  	 	 	 	
+07:30	  USD		Continuing Jobless Claims	1,415K	1,442K	1,434K	
+07:30	  USD		Core PCE Prices (Q2)  	4.40%	4.40%	5.20%	
+07:30	  USD		GDP Price Index (QoQ) (Q2)  	9.0%	8.7%	8.9%	
+08:00	  USD		Jackson Hole Symposium  	 	 	 	
+Friday, August 26, 2022
+07:30	  USD		FOMC Member Bostic Speaks  	 	 	 	
+07:30	  USD		PCE price index (MoM) (Jul)	-0.1%	 	1.0%	
+07:30	  USD		PCE Price index (YoY) (Jul)	6.3%	 	6.8%	
+07:30	  USD		Personal Spending (MoM) (Jul)	0.1%	0.4%	1.0%	
+08:00	  USD		FOMC Member Harker Speaks  	 	 	 	
+08:00	  USD		Jackson Hole Symposium  	 	 	 	
+08:15	  USD		FOMC Member Bullard Speaks  	 	 	 	
+08:30	  USD		FOMC Member Bostic Speaks  	 	 	 	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Aug)	4.8%	5.0%	5.2%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Aug)	2.90%	3.00%	2.90%	
+09:00	  USD		Michigan Consumer Expectations (Aug)	58.0	54.9	47.3	
+09:00	  USD		Michigan Consumer Sentiment (Aug)	58.2	55.1	51.5	
+11:30	  USD		FOMC Member Mester Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	246.2K	 	214.9K	
+14:30	  USD		CFTC Gold speculative net positions	125.8K	 	141.2K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	38.0K	 	6.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-262.3K	 	-288.0K	
+Saturday, August 27, 2022
+08:00	  USD		Jackson Hole Symposium  	 	 	 	
+Tuesday, August 30, 2022
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jun)	18.6%	19.5%	20.5%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jun)	0.4%	 	1.5%	
+10:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+Wednesday, August 31, 2022
+07:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+09:30	  USD		Cushing Crude Oil Inventories	-0.523M	 	0.426M	
+17:30	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Thursday, September 1, 2022
+07:30	  USD		Continuing Jobless Claims	1,438K	1,438K	1,412K	
+07:30	  USD		Nonfarm Productivity (QoQ) (Q2)	-4.1%	-4.5%	-4.6%	
+07:30	  USD		Unit Labor Costs (QoQ) (Q2)	10.2%	10.7%	10.8%	
+09:00	  USD		Construction Spending (MoM) (Jul)	-0.4%	-0.4%	-0.5%	
+09:00	  USD		ISM Manufacturing Employment (Aug)	54.2	49.0	49.9	
+14:30	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Friday, September 2, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (Aug)	5.2%	5.3%	5.2%	
+07:30	  USD		Participation Rate (Aug)	62.4%	 	62.1%	
+07:30	  USD		Private Nonfarm Payrolls (Aug)	308K	300K	477K	
+07:30	  USD		U6 Unemployment Rate (Aug)	7.0%	 	6.7%	
+09:00	  USD		Factory Orders (MoM) (Jul)	-1.0%	0.2%	1.8%	
+14:30	  USD		CFTC Crude Oil speculative net positions	229.2K	 	246.2K	
+14:30	  USD		CFTC Gold speculative net positions	117.7K	 	125.8K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	26.8K	 	38.0K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-239.6K	 	-262.3K	
+Monday, September 5, 2022
+All Day	 	Holiday	United States - Labor Day
+05:00	  USD		OPEC Meeting  	 	 	 	
+Tuesday, September 6, 2022
+09:00	  USD		ISM Non-Manufacturing Employment (Aug)	50.2	 	49.1	
+Wednesday, September 7, 2022
+09:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+11:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+13:00	  USD		Beige Book	 	 	 	
+13:00	  USD		Fed Vice Chair for Supervision Barr Speaks  	 	 	 	
+Thursday, September 8, 2022
+07:30	  USD		Continuing Jobless Claims	1,473K	1,435K	1,437K	
+10:00	  USD		Cushing Crude Oil Inventories	-0.501M	 	-0.523M	
+14:00	  USD		Consumer Credit (Jul)	23.81B	33.00B	39.06B	
+Friday, September 9, 2022
+11:00	  USD		Fed Waller Speaks  	 	 	 	
+11:00	  USD		FOMC Member George Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	214.5K	 	229.2K	
+14:30	  USD		CFTC Gold speculative net positions	103.9K	 	117.7K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	22.0K	 	26.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-238.7K	 	-239.6K	
+Monday, September 12, 2022
+10:00	  USD		NY Fed 1-Year Consumer Inflation Expectations	5.7%	 	6.2%	
+Tuesday, September 13, 2022
+07:30	  USD		Core CPI (YoY) (Aug)	6.3%	6.1%	5.9%	
+Wednesday, September 14, 2022
+07:30	  USD		Core PPI (MoM) (Aug)	0.4%	0.3%	0.3%	
+09:30	  USD		Cushing Crude Oil Inventories	-0.135M	 	-0.501M	
+Thursday, September 15, 2022
+07:30	  USD		Continuing Jobless Claims	1,403K	1,475K	1,401K	
+07:30	  USD		Export Price Index (MoM) (Aug)	-1.6%	-1.2%	-3.7%	
+07:30	  USD		Import Price Index (MoM) (Aug)	-1.0%	-1.2%	-1.5%	
+07:30	  USD		NY Empire State Manufacturing Index (Sep)	-1.50	-13.00	-31.30	
+07:30	  USD		Philly Fed Employment (Sep)	12.0	 	24.1	
+08:15	  USD		Industrial Production (MoM) (Aug)	-0.2%	0.1%	0.5%	
+08:15	  USD		Industrial Production (YoY) (Aug)	3.68%	 	3.81%	
+Friday, September 16, 2022
+09:00	  USD		Michigan 1-Year Inflation Expectations (Sep)  	4.6%	 	4.8%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Sep)  	2.80%	 	2.90%	
+09:00	  USD		Michigan Consumer Expectations (Sep)  	59.9	59.7	58.0	
+09:00	  USD		Michigan Consumer Sentiment (Sep)  	59.5	60.0	58.2	
+14:30	  USD		CFTC Crude Oil speculative net positions	227.1K	 	214.5K	
+14:30	  USD		CFTC Gold speculative net positions	97.3K	 	103.9K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	11.8K	 	22.0K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-281.0K	 	-238.7K	
+Tuesday, September 20, 2022
+07:30	  USD		Building Permits (Aug)	1.517M	1.610M	1.685M	
+07:30	  USD		Housing Starts (Aug)	1.575M	1.445M	1.404M	
+07:30	  USD		Housing Starts (MoM) (Aug)	12.2%	 	-10.9%	
+Wednesday, September 21, 2022
+09:00	  USD		Existing Home Sales (MoM) (Aug)	-0.4%	 	-5.7%	
+09:30	  USD		Cushing Crude Oil Inventories	0.343M	 	-0.135M	
+13:00	  USD		Interest Rate Projection - 1st Yr (Q3)	4.6%	 	3.8%	
+13:00	  USD		Interest Rate Projection - 2nd Yr (Q3)	3.9%	 	3.4%	
+13:00	  USD		Interest Rate Projection - 3rd Yr (Q3)	2.9%	 	2.1%	
+13:00	  USD		Interest Rate Projection - Current (Q3)	4.4%	 	3.4%	
+13:00	  USD		Interest Rate Projection - Longer (Q3)	2.5%	 	2.5%	
+Thursday, September 22, 2022
+07:30	  USD		Continuing Jobless Claims	1,379K	1,400K	1,401K	
+09:00	  USD		US Leading Index (MoM) (Aug)	-0.3%	-0.1%	-0.5%	
+Friday, September 23, 2022
+14:30	  USD		CFTC Crude Oil speculative net positions	239.9K	 	227.1K	
+14:30	  USD		CFTC Gold speculative net positions	65.7K	 	97.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	3.5K	 	11.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-219.5K	 	-281.0K	
+Monday, September 26, 2022
+09:00	  USD		FOMC Member Rosengren Speaks  	 	 	 	
+11:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+15:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Tuesday, September 27, 2022
+07:30	  USD		Core Durable Goods Orders (MoM) (Aug)	0.2%	0.2%	0.2%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Jul)	16.1%	17.0%	18.7%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Jul)	-0.8%	 	0.4%	
+08:55	  USD		FOMC Member Bullard Speaks  	 	 	 	
+09:00	  USD		New Home Sales (MoM) (Aug)	28.8%	 	-8.6%	
+19:35	  USD		FOMC Member Daly Speaks  	 	 	 	
+Wednesday, September 28, 2022
+07:35	  USD		FOMC Member Bostic Speaks  	 	 	 	
+09:00	  USD		Pending Home Sales (MoM) (Aug)	-2.0%	-1.4%	-0.6%	
+09:10	  USD		FOMC Member Bullard Speaks  	 	 	 	
+09:30	  USD		Cushing Crude Oil Inventories	0.692M	 	0.343M	
+10:00	  USD		FOMC Member Bowman Speaks  	 	 	 	
+Thursday, September 29, 2022
+07:30	  USD		Continuing Jobless Claims	1,347K	1,388K	1,376K	
+07:30	  USD		Core PCE Prices (Q2)	4.70%	4.40%	5.20%	
+07:30	  USD		GDP Price Index (QoQ) (Q2)	9.1%	8.9%	8.3%	
+08:30	  USD		FOMC Member Bullard Speaks  	 	 	 	
+12:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Friday, September 30, 2022
+07:30	  USD		PCE price index (MoM) (Aug)	0.3%	 	-0.1%	
+07:30	  USD		PCE Price index (YoY) (Aug)	6.2%	 	6.4%	
+07:30	  USD		Personal Spending (MoM) (Aug)	0.4%	0.2%	-0.2%	
+08:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+08:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Sep)	4.7%	 	4.6%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Sep)	2.70%	 	2.80%	
+09:00	  USD		Michigan Consumer Expectations (Sep)	58.0	 	59.9	
+09:00	  USD		Michigan Consumer Sentiment (Sep)	58.6	59.5	59.5	
+10:00	  USD		FOMC Member Bowman Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	226.1K	 	239.9K	
+14:30	  USD		CFTC Gold speculative net positions	52.1K	 	65.7K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	-0.0K	 	3.5K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-150.2K	 	-219.5K	
+15:15	  USD		FOMC Member Williams Speaks  	 	 	 	
+Monday, October 3, 2022
+08:05	  USD		FOMC Member Bostic Speaks  	 	 	 	
+09:00	  USD		Construction Spending (MoM) (Aug)	-0.7%	-0.3%	-0.6%	
+09:00	  USD		ISM Manufacturing Employment (Sep)	48.7	53.0	54.2	
+13:15	  USD		FOMC Member George Speaks  	 	 	 	
+14:10	  USD		FOMC Member Williams Speaks  	 	 	 	
+17:45	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Tuesday, October 4, 2022
+08:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+08:15	  USD		FOMC Member Mester Speaks  	 	 	 	
+09:00	  USD		Factory Orders (MoM) (Aug)	0.0%	0.2%	-1.0%	
+12:00	  USD		FOMC Member Daly Speaks  	 	 	 	
+Wednesday, October 5, 2022
+05:00	  USD		OPEC Meeting  	 	 	 	
+09:00	  USD		ISM Non-Manufacturing Employment (Sep)	53.0	 	50.2	
+09:30	  USD		Cushing Crude Oil Inventories	0.273M	 	0.692M	
+15:00	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Thursday, October 6, 2022
+07:30	  USD		Continuing Jobless Claims	1,361K	1,345K	1,346K	
+16:00	  USD		Fed Waller Speaks  	 	 	 	
+17:30	  USD		FOMC Member Mester Speaks  	 	 	 	
+Friday, October 7, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (Sep)	5.0%	5.1%	5.2%	
+07:30	  USD		Participation Rate (Sep)	62.3%	 	62.4%	
+07:30	  USD		Private Nonfarm Payrolls (Sep)	288K	265K	275K	
+07:30	  USD		U6 Unemployment Rate (Sep)	6.7%	 	7.0%	
+09:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+14:00	  USD		Consumer Credit (Aug)	32.24B	24.50B	26.10B	
+14:30	  USD		CFTC Crude Oil speculative net positions	242.0K	 	226.1K	
+14:30	  USD		CFTC Gold speculative net positions	88.4K	 	52.1K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	-3.8K	 	-0.0K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-209.3K	 	-150.2K	
+Tuesday, October 11, 2022
+10:00	  USD		NY Fed 1-Year Consumer Inflation Expectations	5.4%	 	5.7%	
+10:30	  USD		FOMC Member Harker Speaks  	 	 	 	
+11:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+Wednesday, October 12, 2022
+07:30	  USD		Core PPI (MoM) (Sep)	0.3%	0.3%	0.3%	
+11:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+12:45	  USD		Fed Vice Chair for Supervision Barr Speaks  	 	 	 	
+17:30	  USD		FOMC Member Bowman Speaks  	 	 	 	
+Thursday, October 13, 2022
+07:30	  USD		Continuing Jobless Claims	1,368K	1,365K	1,365K	
+07:30	  USD		Core CPI (YoY) (Sep)	6.6%	6.5%	6.3%	
+10:00	  USD		Cushing Crude Oil Inventories	-0.309M	 	0.273M	
+Friday, October 14, 2022
+07:30	  USD		Export Price Index (MoM) (Sep)	-0.8%	-1.0%	-1.7%	
+07:30	  USD		Import Price Index (MoM) (Sep)	-1.2%	-1.1%	-1.1%	
+07:30	  USD		Retail Control (MoM) (Sep)	0.4%	0.3%	0.2%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Oct)  	5.1%	 	4.7%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Oct)  	2.90%	 	2.70%	
+09:00	  USD		Michigan Consumer Expectations (Oct)  	56.2	58.5	58.0	
+09:00	  USD		Michigan Consumer Sentiment (Oct)  	59.8	59.0	58.6	
+11:15	  USD		Fed Waller Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	259.2K	 	242.0K	
+14:30	  USD		CFTC Gold speculative net positions	94.4K	 	88.4K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	8.5K	 	-3.8K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-164.1K	 	-209.3K	
+Saturday, October 15, 2022
+12:15	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Monday, October 17, 2022
+07:30	  USD		NY Empire State Manufacturing Index (Oct)	-9.10	-4.00	-1.50	
+Tuesday, October 18, 2022
+08:15	  USD		Industrial Production (MoM) (Sep)	0.4%	0.1%	-0.1%	
+08:15	  USD		Industrial Production (YoY) (Sep)	5.33%	 	3.91%	
+16:30	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+Wednesday, October 19, 2022
+07:30	  USD		Building Permits (Sep)	1.564M	1.530M	1.542M	
+07:30	  USD		Housing Starts (Sep)	1.439M	1.475M	1.566M	
+07:30	  USD		Housing Starts (MoM) (Sep)	-8.1%	 	13.7%	
+09:30	  USD		Cushing Crude Oil Inventories	0.583M	 	-0.309M	
+12:00	  USD		FOMC Member Kashkari Speaks  	 	 	 	
+13:00	  USD		Beige Book	 	 	 	
+18:30	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Thursday, October 20, 2022
+07:30	  USD		Continuing Jobless Claims	1,385K	1,375K	1,364K	
+07:30	  USD		Philly Fed Employment (Oct)	28.5	 	12.0	
+09:00	  USD		Existing Home Sales (MoM) (Sep)	-1.5%	 	-0.8%	
+09:00	  USD		US Leading Index (MoM) (Sep)	-0.4%	-0.3%	-0.3%	
+11:00	  USD		FOMC Member Harker Speaks  	 	 	 	
+13:05	  USD		FOMC Member Bowman Speaks  	 	 	 	
+Friday, October 21, 2022
+08:10	  USD		FOMC Member Williams Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	251.5K	 	259.2K	
+14:30	  USD		CFTC Gold speculative net positions	77.0K	 	94.4K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	1.5K	 	8.5K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-223.2K	 	-164.1K	
+Monday, October 24, 2022
+10:00	  USD		Treasury Secretary Yellen Speaks  	 	 	 	
+Tuesday, October 25, 2022
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Aug)	13.1%	14.4%	16.0%	
+08:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Aug)	-1.6%	-0.7%	-0.8%	
+12:55	  USD		Fed Waller Speaks  	 	 	 	
+Wednesday, October 26, 2022
+09:00	  USD		New Home Sales (MoM) (Sep)	-10.9%	-13.9%	24.7%	
+09:30	  USD		Cushing Crude Oil Inventories	0.667M	 	0.583M	
+Thursday, October 27, 2022
+07:30	  USD		Continuing Jobless Claims	1,438K	1,388K	1,383K	
+07:30	  USD		Core Durable Goods Orders (MoM) (Sep)	-0.5%	0.2%	0.3%	
+07:30	  USD		Core PCE Prices (Q3)  	4.50%	4.50%	4.70%	
+07:30	  USD		GDP Price Index (QoQ) (Q3)  	4.1%	5.3%	9.1%	
+Friday, October 28, 2022
+07:30	  USD		Employment Cost Index (QoQ) (Q3)	1.2%	1.2%	1.3%	
+07:30	  USD		PCE price index (MoM) (Sep)	0.3%	 	0.3%	
+07:30	  USD		PCE Price index (YoY) (Sep)	6.2%	 	6.2%	
+07:30	  USD		Personal Spending (MoM) (Sep)	0.6%	0.4%	0.6%	
+09:00	  USD		Michigan 1-Year Inflation Expectations (Oct)  	5.0%	 	5.1%	
+09:00	  USD		Michigan 5-Year Inflation Expectations (Oct)  	2.90%	 	2.90%	
+09:00	  USD		Michigan Consumer Expectations (Oct)  	56.2	 	56.2	
+09:00	  USD		Michigan Consumer Sentiment (Oct)  	59.9	59.8	59.8	
+09:00	  USD		Pending Home Sales (MoM) (Sep)	-10.2%	-5.0%	-1.9%	
+14:30	  USD		CFTC Crude Oil speculative net positions	249.1K	 	251.5K	
+14:30	  USD		CFTC Gold speculative net positions	68.0K	 	77.0K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	5.7K	 	1.5K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-219.1K	 	-223.2K	
+Tuesday, November 1, 2022
+09:00	  USD		Construction Spending (MoM) (Sep)	0.2%	-0.5%	-0.6%	
+09:00	  USD		ISM Manufacturing Employment (Oct)	50.0	53.0	48.7	
+Wednesday, November 2, 2022
+09:30	  USD		Cushing Crude Oil Inventories	1.267M	 	0.667M	
+Thursday, November 3, 2022
+07:30	  USD		Continuing Jobless Claims	1,485K	1,450K	1,438K	
+07:30	  USD		Nonfarm Productivity (QoQ) (Q3)  	0.3%	0.6%	-4.1%	
+07:30	  USD		Unit Labor Costs (QoQ) (Q3)  	3.5%	4.1%	8.9%	
+09:00	  USD		Factory Orders (MoM) (Sep)	0.3%	0.3%	0.2%	
+09:00	  USD		ISM Non-Manufacturing Employment (Oct)	49.1	 	53.0	
+Friday, November 4, 2022
+07:30	  USD		Average Hourly Earnings (YoY) (YoY) (Oct)	4.7%	4.7%	5.0%	
+07:30	  USD		Participation Rate (Oct)	62.2%	 	62.3%	
+07:30	  USD		Private Nonfarm Payrolls (Oct)	233K	200K	319K	
+07:30	  USD		U6 Unemployment Rate (Oct)	6.8%	 	6.7%	
+09:00	  USD		FOMC Member Rosengren Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	254.8K	 	249.1K	
+14:30	  USD		CFTC Gold speculative net positions	64.6K	 	68.0K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	-15.2K	 	5.7K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-175.1K	 	-219.1K	
+Monday, November 7, 2022
+15:00	  USD		Consumer Credit (Sep)	24.98B	30.00B	30.18B	
+15:40	  USD		FOMC Member Mester Speaks  	 	 	 	
+Tuesday, November 8, 2022
+12:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+Wednesday, November 9, 2022
+03:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+10:30	  USD		Cushing Crude Oil Inventories	-0.923M	 	1.267M	
+Thursday, November 10, 2022
+02:00	  USD		Fed Waller Speaks  	 	 	 	
+08:30	  USD		Continuing Jobless Claims	1,493K	1,475K	1,487K	
+08:30	  USD		Core CPI (YoY) (Oct)	6.3%	6.5%	6.6%	
+09:00	  USD		FOMC Member Harker Speaks  	 	 	 	
+12:30	  USD		FOMC Member Mester Speaks  	 	 	 	
+13:30	  USD		FOMC Member George Speaks  	 	 	 	
+18:35	  USD		FOMC Member Williams Speaks  	 	 	 	
+Friday, November 11, 2022
+10:00	  USD		Michigan 1-Year Inflation Expectations (Nov)  	5.1%	 	5.0%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Nov)  	3.00%	 	2.90%	
+10:00	  USD		Michigan Consumer Expectations (Nov)  	52.7	56.0	56.2	
+10:00	  USD		Michigan Consumer Sentiment (Nov)  	54.7	59.5	59.9	
+Sunday, November 13, 2022
+16:30	  USD		Fed Waller Speaks  	 	 	 	
+Monday, November 14, 2022
+10:00	  USD		NY Fed 1-Year Consumer Inflation Expectations	5.9%	 	5.4%	
+14:30	  USD		CFTC Crude Oil speculative net positions	274.8K	 	254.8K	
+14:30	  USD		CFTC Gold speculative net positions	82.3K	 	64.6K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	-2.4K	 	-15.2K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-177.1K	 	-175.1K	
+18:30	  USD		FOMC Member Williams Speaks  	 	 	 	
+Tuesday, November 15, 2022
+08:30	  USD		Core PPI (MoM) (Oct)	0.0%	0.3%	0.2%	
+08:30	  USD		NY Empire State Manufacturing Index (Nov)	4.50	-5.00	-9.10	
+10:00	  USD		Fed Vice Chair for Supervision Barr Speaks  	 	 	 	
+Wednesday, November 16, 2022
+08:30	  USD		Export Price Index (MoM) (Oct)	-0.3%	-0.4%	-1.5%	
+08:30	  USD		Import Price Index (MoM) (Oct)	-0.2%	-0.4%	-1.1%	
+08:30	  USD		Retail Control (MoM) (Oct)	0.7%	0.3%	0.6%	
+09:15	  USD		Industrial Production (YoY) (Oct)	3.28%	 	4.96%	
+09:15	  USD		Industrial Production (MoM) (Oct)	-0.1%	0.2%	0.1%	
+09:50	  USD		FOMC Member Williams Speaks  	 	 	 	
+10:00	  USD		Fed Vice Chair for Supervision Barr Speaks  	 	 	 	
+10:30	  USD		Cushing Crude Oil Inventories	-1.624M	 	-0.923M	
+14:35	  USD		Fed Waller Speaks  	 	 	 	
+Thursday, November 17, 2022
+08:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+08:30	  USD		Building Permits (Oct)  	1.526M	1.512M	1.564M	
+08:30	  USD		Continuing Jobless Claims	1,507K	1,500K	1,494K	
+08:30	  USD		Housing Starts (Oct)	1.425M	1.410M	1.488M	
+08:30	  USD		Housing Starts (MoM) (Oct)	-4.2%	 	-1.3%	
+08:30	  USD		Philly Fed Employment (Nov)	7.1	 	28.5	
+09:15	  USD		FOMC Member Bowman Speaks  	 	 	 	
+09:40	  USD		FOMC Member Mester Speaks  	 	 	 	
+19:10	  USD		FOMC Member Williams Speaks  	 	 	 	
+Friday, November 18, 2022
+10:00	  USD		Existing Home Sales (MoM) (Oct)	-5.9%	 	-1.5%	
+10:00	  USD		US Leading Index (MoM) (Oct)	-0.8%	-0.4%	-0.5%	
+14:30	  USD		CFTC Crude Oil speculative net positions	278.3K	 	274.8K	
+14:30	  USD		CFTC Gold speculative net positions	126.3K	 	82.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	-5.3K	 	-2.4K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-202.6K	 	-177.1K	
+Saturday, November 19, 2022
+13:45	  USD		FOMC Member Bostic Speaks  	 	 	 	
+Tuesday, November 22, 2022
+11:00	  USD		FOMC Member Mester Speaks  	 	 	 	
+14:15	  USD		FOMC Member George Speaks  	 	 	 	
+14:45	  USD		FOMC Member Bullard Speaks  	 	 	 	
+Wednesday, November 23, 2022
+08:00	  USD		Building Permits (Oct)	1.512M	1.526M	1.564M	
+08:30	  USD		Continuing Jobless Claims	1,551K	1,517K	1,503K	
+08:30	  USD		Core Durable Goods Orders (MoM) (Oct)	0.5%	0.1%	-0.9%	
+10:00	  USD		Michigan 1-Year Inflation Expectations (Nov)	4.9%	5.1%	5.0%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Nov)	3.0%	3.0%	2.9%	
+10:00	  USD		Michigan Consumer Expectations (Nov)	55.6	52.7	56.2	
+10:00	  USD		Michigan Consumer Sentiment (Nov)	56.8	55.0	54.7	
+10:00	  USD		New Home Sales (MoM) (Oct)	7.5%	 	-11.0%	
+10:30	  USD		Cushing Crude Oil Inventories	-0.887M	 	-1.624M	
+Thursday, November 24, 2022
+All Day	 	Holiday	United States - Thanksgiving Day
+Friday, November 25, 2022
+ 	Holiday	United States - Thanksgiving Day - Early close at 13:00
+Monday, November 28, 2022
+12:00	  USD		FOMC Member Bullard Speaks  	 	 	 	
+12:00	  USD		FOMC Member Williams Speaks  	 	 	 	
+14:30	  USD		CFTC Crude Oil speculative net positions	252.5K	 	278.3K	
+14:30	  USD		CFTC Gold speculative net positions	116.1K	 	126.3K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	3.0K	 	-5.3K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-191.5K	 	-202.6K	
+Tuesday, November 29, 2022
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Sep)	10.4%	10.8%	13.1%	
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Sep)	-1.5%	-0.7%	-1.6%	
+Wednesday, November 30, 2022
+08:30	  USD		Core PCE Prices (Q3)  	4.60%	4.50%	4.70%	
+08:30	  USD		GDP Price Index (QoQ) (Q3)  	4.3%	4.1%	9.0%	
+10:00	  USD		Pending Home Sales (MoM) (Oct)	-4.6%	-5.0%	-8.7%	
+10:30	  USD		Cushing Crude Oil Inventories	-0.415M	-0.697M	-0.887M	
+14:00	  USD		Beige Book	 	 	 	
+Thursday, December 1, 2022
+08:30	  USD		Continuing Jobless Claims	1,608K	1,573K	1,551K	
+08:30	  USD		PCE price index (MoM) (Oct)	0.3%	0.5%	0.3%	
+08:30	  USD		PCE Price index (YoY) (Oct)	6.0%	6.0%	6.3%	
+08:30	  USD		Personal Spending (MoM) (Oct)	0.8%	0.8%	0.6%	
+09:30	  USD		FOMC Member Bowman Speaks  	 	 	 	
+10:00	  USD		Construction Spending (MoM) (Oct)	-0.3%	-0.3%	0.1%	
+10:00	  USD		ISM Manufacturing Employment (Nov)	48.4	 	50.0	
+15:00	  USD		Fed Vice Chair for Supervision Barr Speaks  	 	 	 	
+Friday, December 2, 2022
+08:30	  USD		Average Hourly Earnings (YoY) (YoY) (Nov)	5.1%	4.6%	4.9%	
+08:30	  USD		Participation Rate (Nov)	62.1%	 	62.2%	
+08:30	  USD		Private Nonfarm Payrolls (Nov)	221K	190K	248K	
+08:30	  USD		U6 Unemployment Rate (Nov)	6.7%	 	6.8%	
+14:30	  USD		CFTC Crude Oil speculative net positions	239.7K	 	252.5K	
+14:30	  USD		CFTC Gold speculative net positions	110.0K	 	116.1K	
+14:30	  USD		CFTC Nasdaq 100 speculative net positions	9.8K	 	3.0K	
+14:30	  USD		CFTC S&P 500 speculative net positions	-204.2K	 	-191.5K	
+Sunday, December 4, 2022
+Tentative	  USD		OPEC Meeting  	 	 	 	
+Monday, December 5, 2022
+10:00	  USD		Factory Orders (MoM) (Oct)	1.0%	0.7%	0.3%	
+10:00	  USD		ISM Non-Manufacturing Employment (Nov)	51.5	 	49.1	
+Tuesday, December 6, 2022
+12:00	  USD		EIA Short-Term Energy Outlook  	 	 	 	
+Wednesday, December 7, 2022
+08:30	  USD		Nonfarm Productivity (QoQ) (Q3)	0.8%	0.6%	0.3%	
+08:30	  USD		Unit Labor Costs (QoQ) (Q3)	2.4%	3.1%	3.5%	
+10:30	  USD		Cushing Crude Oil Inventories	-0.373M	-0.841M	-0.415M	
+15:00	  USD		Consumer Credit (Oct)	27.08B	28.30B	25.82B	
+Thursday, December 8, 2022
+08:30	  USD		Continuing Jobless Claims	1,671K	1,600K	1,609K	
+Friday, December 9, 2022
+08:30	  USD		Core PPI (MoM) (Nov)	0.4%	0.2%	0.1%	
+10:00	  USD		Michigan 1-Year Inflation Expectations (Dec)  	4.6%	4.9%	4.9%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Dec)  	3.0%	3.0%	3.0%	
+10:00	  USD		Michigan Consumer Expectations (Dec)  	58.4	56.0	55.6	
+10:00	  USD		Michigan Consumer Sentiment (Dec)  	59.1	56.9	56.8	
+15:30	  USD		CFTC Crude Oil speculative net positions	231.7K	 	239.7K	
+15:30	  USD		CFTC Gold speculative net positions	115.1K	 	110.0K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	13.5K	 	9.8K	
+15:30	  USD		CFTC S&P 500 speculative net positions	-203.7K	 	-204.2K	
+Monday, December 12, 2022
+11:00	  USD		NY Fed 1-Year Consumer Inflation Expectations	5.2%	 	5.9%	
+Tuesday, December 13, 2022
+08:30	  USD		Core CPI (YoY) (Nov)	6.0%	6.1%	6.3%	
+Wednesday, December 14, 2022
+08:30	  USD		Export Price Index (MoM) (Nov)	-0.3%	-0.4%	-0.4%	
+08:30	  USD		Import Price Index (MoM) (Nov)	-0.6%	-0.5%	-0.4%	
+10:30	  USD		Cushing Crude Oil Inventories	0.426M	-0.715M	-0.373M	
+14:00	  USD		Interest Rate Projection - 1st Yr (Q4)	5.1%	 	4.6%	
+14:00	  USD		Interest Rate Projection - 2nd Yr (Q4)	4.1%	 	3.9%	
+14:00	  USD		Interest Rate Projection - 3rd Yr (Q4)	3.1%	 	2.9%	
+14:00	  USD		Interest Rate Projection - Current (Q4)	4.4%	 	4.4%	
+14:00	  USD		Interest Rate Projection - Longer (Q4)	2.5%	 	2.5%	
+Thursday, December 15, 2022
+08:30	  USD		Continuing Jobless Claims	1,671K	1,671K	1,670K	
+08:30	  USD		NY Empire State Manufacturing Index (Dec)	-11.20	-1.00	4.50	
+08:30	  USD		Philly Fed Employment (Dec)	-1.8	 	7.1	
+08:30	  USD		Retail Control (MoM) (Nov)	-0.2%	0.2%	0.5%	
+09:15	  USD		Industrial Production (YoY) (Nov)	2.51%	 	3.34%	
+09:15	  USD		Industrial Production (MoM) (Nov)	-0.2%	0.1%	-0.1%	
+Friday, December 16, 2022
+15:30	  USD		CFTC Crude Oil speculative net positions	229.6K	 	231.7K	
+15:30	  USD		CFTC Gold speculative net positions	125.6K	 	115.1K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	19.2K	 	13.5K	
+15:30	  USD		CFTC S&P 500 speculative net positions	-230.1K	 	-203.7K	
+Tuesday, December 20, 2022
+08:30	  USD		Building Permits (Nov)  	1.342M	1.485M	1.512M	
+08:30	  USD		Housing Starts (Nov)	1.427M	1.400M	1.434M	
+08:30	  USD		Housing Starts (MoM) (Nov)	-0.5%	 	-2.1%	
+Wednesday, December 21, 2022
+10:00	  USD		Existing Home Sales (MoM) (Nov)	-7.7%	-5.4%	-5.9%	
+10:30	  USD		Cushing Crude Oil Inventories	0.853M	 	0.426M	
+Thursday, December 22, 2022
+08:30	  USD		Continuing Jobless Claims	1,672K	1,683K	1,678K	
+08:30	  USD		Core PCE Prices (Q3)	4.70%	4.60%	4.60%	
+08:30	  USD		GDP Price Index (QoQ) (Q3)	4.4%	4.3%	9.0%	
+10:00	  USD		US Leading Index (MoM) (Nov)	-1.0%	-0.4%	-0.9%	
+Friday, December 23, 2022
+08:30	  USD		Building Permits (Nov)	1.351M	 	1.512M	
+08:30	  USD		Core Durable Goods Orders (MoM) (Nov)	0.2%	0.1%	0.1%	
+08:30	  USD		PCE price index (MoM) (Nov)	0.1%	 	0.4%	
+08:30	  USD		PCE Price index (YoY) (Nov)	5.5%	 	6.1%	
+08:30	  USD		Personal Spending (MoM) (Nov)	0.1%	0.2%	0.9%	
+10:00	  USD		Michigan 1-Year Inflation Expectations (Dec)	4.4%	 	4.6%	
+10:00	  USD		Michigan 5-Year Inflation Expectations (Dec)	2.9%	 	3.0%	
+10:00	  USD		Michigan Consumer Expectations (Dec)	59.9	 	58.4	
+10:00	  USD		Michigan Consumer Sentiment (Dec)	59.7	59.1	59.1	
+10:00	  USD		New Home Sales (MoM) (Nov)	5.8%	-4.7%	8.2%	
+15:30	  USD		CFTC Crude Oil speculative net positions	238.2K	 	229.6K	
+15:30	  USD		CFTC Gold speculative net positions	128.8K	 	125.6K	
+15:30	  USD		CFTC Nasdaq 100 speculative net positions	4.5K	 	19.2K	
+15:30	  USD		CFTC S&P 500 speculative net positions	-159.8K	 	-230.1K	
+Monday, December 26, 2022
+All Day	 	Holiday	United States - Christmas
+Tuesday, December 27, 2022
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (YoY) (Oct)	8.6%	8.2%	10.4%	
+09:00	  USD		S&P/CS HPI Composite - 20 n.s.a. (MoM) (Oct)	-0.8%	 	
