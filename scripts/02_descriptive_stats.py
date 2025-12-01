@@ -6,8 +6,8 @@ Outputs (windows_parquet/descriptives/):
  - descriptive_5min.parquet : intradiário agregado em 5 minutos (std/mean as in paper)
  - descriptive_15min.parquet: intradiário agregado em 15 minutes (para referência)
  - daily_stats.csv          : estatísticas diárias (Tabela 1 style)
+ - article_table1.csv       : Tabela 1 no formato do artigo (mean, sd, 1%,5%,25%,50%,75%,95%,99%)
 """
-
 import warnings
 warnings.filterwarnings("ignore", category=FutureWarning)
 
@@ -28,6 +28,9 @@ OUT_1S_PQ = OUT_DIR / "descriptive_1s.parquet"
 OUT_5MIN_PQ = OUT_DIR / "descriptive_5min.parquet"
 OUT_15MIN_PQ = OUT_DIR / "descriptive_15min.parquet"
 OUT_DAILY_CSV = OUT_DIR / "daily_stats.csv"
+OUT_TABLE1_CSV = OUT_DIR / "article_table1.csv"
+OUT_TABLE1_TEX = OUT_DIR / "article_table1.tex"  # optional latex output
+
 DAILY_WINNERS_PQ = Path("windows_parquet/daily_most_active.parquet")  # optional existing file
 
 MARKET_TZ = "America/Chicago"
@@ -36,6 +39,11 @@ END_TIME = "15:00:00"
 
 # safety params (not strict)
 MIN_EVENTS_PER_DAY = 10
+
+# Tabela 1 options
+TABLE1_WINSORIZE = False   # True para winsorizar antes de calcular (remover outliers)
+TABLE1_LOWER_Q = 0.01
+TABLE1_UPPER_Q = 0.99
 
 # ---------- helpers ----------
 def list_clean_parquets(clean_dir: Path):
@@ -102,6 +110,67 @@ def time_window_for_date(date):
     day_end_market = pd.Timestamp(f"{date} {END_TIME}", tz=MARKET_TZ)
     return day_start_market.tz_convert("UTC"), day_end_market.tz_convert("UTC")
 
+# ---------- pseudo-OFI utilities (for BBO-1s snapshots) ----------
+def compute_1s_from_snapshots(grp_day: pd.DataFrame) -> pd.DataFrame:
+    """
+    Given grp_day (events for one day-symbol), compute per-second snapshot series with:
+     ts, mid, mid_return_bps, ofi (pseudo), n_events (1 per second), n_events_size_changes,
+     avg_event_size, avg_spread, depth
+    Assumes grp_day contains columns: ts (datetime UTC), bid_px_00, ask_px_00, bid_sz_00, ask_sz_00
+    """
+    if grp_day.empty:
+        return pd.DataFrame(columns=["ts","mid","mid_return_bps","ofi","n_events","n_events_size_changes",
+                                     "avg_event_size","avg_spread","depth"])
+    # sort and set index
+    grp_day = grp_day.sort_values("ts").set_index("ts")
+    # resample to 1s: take last observation in each second and forward-fill to maintain continuity
+    sec = grp_day.resample("1S").last().ffill()
+
+    # ensure numeric columns exist
+    sec["qb"] = pd.to_numeric(sec.get("bid_sz_00", 0), errors="coerce").fillna(0)
+    sec["qa"] = pd.to_numeric(sec.get("ask_sz_00", 0), errors="coerce").fillna(0)
+    sec["Pb"] = pd.to_numeric(sec.get("bid_px_00", np.nan), errors="coerce")
+    sec["Pa"] = pd.to_numeric(sec.get("ask_px_00", np.nan), errors="coerce")
+
+    # diffs in sizes
+    sec["dq_b"] = sec["qb"].diff().fillna(0)
+    sec["dq_a"] = sec["qa"].diff().fillna(0)
+
+    # direction proxies from price diffs
+    pb_diff = sec["Pb"].diff().fillna(0)
+    pa_diff = sec["Pa"].diff().fillna(0)
+    sec["dir_b"] = pb_diff.apply(lambda x: 1 if x>0 else (-1 if x<0 else 0))
+    sec["dir_a"] = pa_diff.apply(lambda x: 1 if x>0 else (-1 if x<0 else 0))
+
+    # pseudo-OFI: change in size times direction proxy
+    sec["ofi"] = sec["dq_b"] * sec["dir_b"] - sec["dq_a"] * sec["dir_a"]
+
+    # intensity proxies
+    sec["n_events"] = 1                                 # snapshot exists -> 1 per second
+    sec["n_events_size_changes"] = (sec["dq_b"].abs() + sec["dq_a"].abs())
+
+    # mid / spread / depth / avg_event_size
+    sec["mid"] = (sec["Pb"] + sec["Pa"]) / 2.0
+    sec["avg_spread"] = (sec["Pa"] - sec["Pb"])
+    sec["depth"] = (sec["qb"] + sec["qa"]) / 2.0
+    sec["avg_event_size"] = sec[["qb","qa"]].mean(axis=1).fillna(0)
+
+    # mid_return in bps
+    sec = sec.reset_index().sort_values("ts").reset_index(drop=True)
+    sec["mid_prev"] = sec["mid"].shift(1)
+    sec["mid_return_bps"] = np.where(
+        (sec["mid_prev"].notna()) & (sec["mid_prev"] != 0),
+        (sec["mid"] - sec["mid_prev"]) / sec["mid_prev"] * 10000.0,
+        np.nan
+    )
+
+    # select columns downstream expects
+    out_cols = ["ts","mid","mid_return_bps","ofi","n_events","n_events_size_changes","avg_event_size","avg_spread","depth"]
+    for c in out_cols:
+        if c not in sec.columns:
+            sec[c] = pd.NA
+    return sec[out_cols]
+
 # ---------- core processing ----------
 def process_file_to_1s(df_raw, winners_map, writer_holder):
     """
@@ -110,7 +179,7 @@ def process_file_to_1s(df_raw, winners_map, writer_holder):
     writer_holder: dict to hold ParquetWriter to stream-write the 1s table
     Returns: list of per-day stats to be combined later
     """
-    # standardize ts
+    # standardize ts (prefer ts_event if present, else ts)
     if "ts" not in df_raw.columns:
         if "ts_event" in df_raw.columns:
             df_raw["ts"] = pd.to_datetime(df_raw["ts_event"], utc=True, errors="coerce")
@@ -128,14 +197,14 @@ def process_file_to_1s(df_raw, winners_map, writer_holder):
         raise ValueError("Input parquet missing 'symbol' column")
     file_symbol = df_raw["symbol"].mode().iloc[0] if not df_raw["symbol"].mode().empty else None
 
-    # numeric enforcement
+    # numeric enforcement for expected columns
     for col in ["bid_px_00", "ask_px_00", "bid_sz_00", "ask_sz_00"]:
         if col in df_raw.columns:
             df_raw[col] = pd.to_numeric(df_raw[col], errors="coerce")
         else:
             df_raw[col] = np.nan
 
-    # create event-level mid/spread
+    # create event-level mid/spread (these are per-row snapshots)
     df_raw["mid"] = (df_raw["bid_px_00"] + df_raw["ask_px_00"]) / 2.0
     df_raw["spread"] = df_raw["ask_px_00"] - df_raw["bid_px_00"]
 
@@ -148,7 +217,7 @@ def process_file_to_1s(df_raw, winners_map, writer_holder):
     # ensure market_date column (in market tz)
     df_raw["market_date"] = df_raw["ts"].dt.tz_convert(MARKET_TZ).dt.date
 
-    # group by market_date and symbol to compute lags used in OFI
+    # group by market_date and symbol to compute per-day 1s aggregates using snapshots
     out_daily_stats = []
     grouped_days = df_raw.groupby(["market_date", "symbol"], sort=True)
     for (mdate, sym), grp in grouped_days:
@@ -164,60 +233,8 @@ def process_file_to_1s(df_raw, winners_map, writer_holder):
         if grp_day.empty or len(grp_day) < MIN_EVENTS_PER_DAY:
             continue
 
-        # compute lagged book state (shift in chronological order within group)
-        grp_day = grp_day.sort_values("ts").reset_index(drop=True)
-        grp_day["Pb_lag"] = grp_day["Pb"].shift(1).fillna(method="ffill").fillna(0)
-        grp_day["Pa_lag"] = grp_day["Pa"].shift(1).fillna(method="ffill").fillna(0)
-        grp_day["qb_lag"] = grp_day["qb"].shift(1).fillna(0)
-        grp_day["qa_lag"] = grp_day["qa"].shift(1).fillna(0)
-
-        # event-level OFI as in Cont et al. (strict comparisons)
-        # en = qb * 1{Pb > Pb_lag} - qb_lag * 1{Pb < Pb_lag} - qa * 1{Pa < Pa_lag} + qa_lag * 1{Pa > Pa_lag}
-        # uses strict > / < to detect price moves
-        pb_up = (grp_day["Pb"] > grp_day["Pb_lag"]).astype(int)
-        pb_down = (grp_day["Pb"] < grp_day["Pb_lag"]).astype(int)
-        pa_up = (grp_day["Pa"] > grp_day["Pa_lag"]).astype(int)
-        pa_down = (grp_day["Pa"] < grp_day["Pa_lag"]).astype(int)
-
-        qb = grp_day["qb"].fillna(0)
-        qa = grp_day["qa"].fillna(0)
-        qb_lag = grp_day["qb_lag"].fillna(0)
-        qa_lag = grp_day["qa_lag"].fillna(0)
-
-        grp_day["en"] = (
-            qb * pb_up
-            - qb_lag * pb_down
-            - qa * pa_down
-            + qa_lag * pa_up
-        )
-
-        # floor to second
-        grp_day["ts_1s"] = grp_day["ts"].dt.floor("s")
-
-        # aggregate per second
-        agg = grp_day.groupby("ts_1s", sort=True).agg(
-            n_events = ("ts", "count"),
-            ofi = ("en", "sum"),
-            avg_event_size = ("qb", lambda x: float(x.dropna().mean()) if len(x.dropna())>0 else np.nan),
-            mid = ("mid", "mean"),
-            avg_spread = ("spread", "mean"),
-            depth_qb = ("qb", lambda x: float(x.dropna().mean()) if len(x.dropna())>0 else np.nan),
-            depth_qa = ("qa", lambda x: float(x.dropna().mean()) if len(x.dropna())>0 else np.nan)
-        ).reset_index().rename(columns={"ts_1s": "ts"})
-
-        # depth: mean((qb+qa)/2) per second
-        agg["depth"] = agg[["depth_qb","depth_qa"]].mean(axis=1)
-        agg = agg.drop(columns=["depth_qb","depth_qa"])
-
-        # mid_return in bps, safe (avoid division by zero)
-        agg = agg.sort_values("ts").reset_index(drop=True)
-        agg["mid_prev"] = agg["mid"].shift(1)
-        # avoid divide by zero: where mid_prev is null or zero, produce NaN
-        agg["mid_return_bps"] = np.where(
-            (agg["mid_prev"].notna()) & (agg["mid_prev"] != 0),
-            (agg["mid"] - agg["mid_prev"]) / agg["mid_prev"] * 10000.0,
-            np.nan
-        )
+        # For BBO-1s: compute per-second snapshot aggregates and pseudo-OFI
+        agg = compute_1s_from_snapshots(grp_day)
 
         # keep meta columns
         agg["market_date"] = mdate
@@ -225,7 +242,7 @@ def process_file_to_1s(df_raw, winners_map, writer_holder):
         # is_most_active flag (true if winners_map says this symbol won)
         agg["is_most_active"] = bool(winner == sym)
 
-        # reorder columns in output
+        # reorder columns in output (add fallback columns as NA if needed)
         out_cols = ["market_date","symbol","ts","mid","mid_return_bps","ofi","n_events","avg_event_size","avg_spread","depth","is_most_active"]
         for c in out_cols:
             if c not in agg.columns:
@@ -263,6 +280,76 @@ def process_file_to_1s(df_raw, winners_map, writer_holder):
         out_daily_stats.append(day_stats)
 
     return out_daily_stats
+
+# ---------- Table 1 generator (keeps units raw; no automatic scaling) ----------
+def compute_table1_from_df1s(df1s: pd.DataFrame, out_csv: Path = OUT_TABLE1_CSV, out_tex: Path = OUT_TABLE1_TEX,
+                             winsorize: bool = TABLE1_WINSORIZE, lower_q: float = TABLE1_LOWER_Q, upper_q: float = TABLE1_UPPER_Q):
+    """
+    Gera Table 1 (raw units) a partir do dataframe 1s já carregado (df1s).
+    NOTE: mantemos unidades brutas (não dividimos por 100/1000) para transparência.
+    """
+    print("Computing Table 1 (article_table1.csv) from 1s df...")
+
+    required = ["mid_return_bps", "ofi", "n_events", "avg_event_size", "avg_spread", "depth"]
+    for c in required:
+        if c not in df1s.columns:
+            raise ValueError(f"Coluna esperada não encontrada no df1s: {c}")
+
+    df = df1s.copy()
+
+    # optional winsorization
+    if winsorize:
+        lo = df[required].quantile(lower_q)
+        hi = df[required].quantile(upper_q)
+        for c in required:
+            low_q = lo[c]
+            high_q = hi[c]
+            df[c] = df[c].clip(lower=low_q, upper=high_q)
+
+    # Build table (raw units)
+    table_df = pd.DataFrame()
+    table_df["Mid-Quote Return (bps)"] = df["mid_return_bps"]
+    table_df["Order Flow Imbalance"] = df["ofi"]
+    table_df["Number of Events"] = df["n_events"]
+    table_df["Average Size of Events"] = df["avg_event_size"]
+    table_df["Average Spread"] = df["avg_spread"]
+    table_df["Depth"] = df["depth"]
+
+    # compute stats
+    stats = {}
+    for col in table_df.columns:
+        ser = table_df[col].dropna().astype(float)
+        stats[col] = {
+            "Mean": ser.mean(),
+            "SD": ser.std(ddof=1),
+            "1%": ser.quantile(0.01),
+            "5%": ser.quantile(0.05),
+            "25%": ser.quantile(0.25),
+            "50%": ser.quantile(0.50),
+            "75%": ser.quantile(0.75),
+            "95%": ser.quantile(0.95),
+            "99%": ser.quantile(0.99),
+        }
+
+    stats_df = pd.DataFrame(stats).T[["Mean", "SD", "1%", "5%", "25%", "50%", "75%", "95%", "99%"]]
+
+    # rounding: two decimal places
+    stats_df = stats_df.round(2)
+
+    out_csv.parent.mkdir(parents=True, exist_ok=True)
+    stats_df.to_csv(out_csv, float_format="%.2f")
+    print(f"Wrote Table 1 CSV -> {out_csv}")
+
+    # optional LaTeX
+    if out_tex:
+        with open(out_tex, "w") as f:
+            f.write("% Table 1 generated from descriptive_1s.parquet (BBO-1s pseudo-OFI)\n")
+            f.write(stats_df.to_latex(float_format="%.2f",
+                                     caption="Summary statistics of mid-quote returns, OFI (pseudo), and market activity variables",
+                                     label="tab:table1"))
+        print(f"Wrote Table 1 LaTeX -> {out_tex}")
+
+    return stats_df
 
 # ---------- entrypoint ----------
 def main():
@@ -306,6 +393,14 @@ def main():
     df1s["ts"] = pd.to_datetime(df1s["ts"], utc=True)
     # sort
     df1s = df1s.sort_values(["market_date","symbol","ts"]).reset_index(drop=True)
+
+    # --- compute Table 1 from df1s (global descriptive) ---
+    try:
+        stats_df = compute_table1_from_df1s(df1s, out_csv=OUT_TABLE1_CSV, out_tex=OUT_TABLE1_TEX,
+                                            winsorize=TABLE1_WINSORIZE, lower_q=TABLE1_LOWER_Q, upper_q=TABLE1_UPPER_Q)
+        print("Table 1 (article_table1.csv) computed.")
+    except Exception as e:
+        print("Failed to compute Table 1:", e)
 
     # compute 5min and 15min intraday series per market_date+symbol
     intraday_5min_rows = []

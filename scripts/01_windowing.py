@@ -42,10 +42,33 @@ EXPECTED_WINDOWS_PER_DAY = 26   # 6h30 / 15min
 def _parquet_files_in_dir(clean_dir: str) -> List[str]:
     return [os.path.join(clean_dir, f) for f in os.listdir(clean_dir) if f.endswith(".parquet")]
 
+def _parse_ts_with_fallback(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Parseia ts_event e ts_recv (quando existentes) e cria coluna 'ts' usando ts_event quando disponível
+    ou ts_recv como fallback. Retorna DataFrame com 'ts_event_parsed', 'ts_recv_parsed', 'ts'.
+    """
+    df = df.copy()
+    # parse if present
+    if "ts_event" in df.columns:
+        df["ts_event_parsed"] = pd.to_datetime(df["ts_event"], utc=True, errors="coerce")
+    else:
+        df["ts_event_parsed"] = pd.NaT
+
+    if "ts_recv" in df.columns:
+        df["ts_recv_parsed"] = pd.to_datetime(df["ts_recv"], utc=True, errors="coerce")
+    else:
+        df["ts_recv_parsed"] = pd.NaT
+
+    # primary timestamp: prefer engine timestamp when present, fallback to capture timestamp
+    df["ts"] = df["ts_event_parsed"].fillna(df["ts_recv_parsed"])
+
+    return df
+
 def _detect_winners_across_files(clean_dir: str = CLEAN_DIR, market_tz: str = MARKET_TZ) -> Tuple[Dict, Dict]:
     """
     Conta eventos por (market_date, symbol) agregando sobre todos os parquets
     e devolve um mapa winners[date] = symbol mais ativo nesse dia.
+    Usa ts_event ou ts_recv (fallback) para determinar market_date.
     """
     parquet_files = [f for f in os.listdir(clean_dir) if f.endswith(".parquet")]
     volume = defaultdict(int)
@@ -53,27 +76,28 @@ def _detect_winners_across_files(clean_dir: str = CLEAN_DIR, market_tz: str = MA
         path = os.path.join(clean_dir, fname)
         try:
             # ler apenas colunas mínimas se existirem (mais rápido)
-            df = pd.read_parquet(path, columns=["ts_event", "symbol"])
+            # tentamos ler ts_event e ts_recv se disponíveis
+            df = pd.read_parquet(path, columns=[c for c in ["ts_event", "ts_recv", "symbol"] if c in pq.ParquetFile(path).schema.to_arrow_schema().names])
         except Exception:
-            df = pd.read_parquet(path)
-        if df.empty:
-            continue
-        # normalize timestamp to UTC
-        if "ts_event" in df.columns:
-            df["ts"] = pd.to_datetime(df["ts_event"], utc=True, errors="coerce")
-        else:
-            # fallback: try ts column
-            if "ts" in df.columns:
-                df["ts"] = pd.to_datetime(df["ts"], utc=True, errors="coerce")
-            else:
+            try:
+                df = pd.read_parquet(path)
+            except Exception as e:
+                print(f"  failed reading {path}: {e}")
                 continue
+        if df is None or df.empty:
+            continue
+
+        # normalize timestamp to UTC using fallback
+        df = _parse_ts_with_fallback(df)
         df = df.dropna(subset=["ts"])
         if df.empty:
             continue
-        df["market_date"] = df["ts"].dt.tz_convert(market_tz).dt.date
-        # If symbol column missing, skip file
+
+        # ensure symbol present
         if "symbol" not in df.columns:
             continue
+
+        df["market_date"] = df["ts"].dt.tz_convert(market_tz).dt.date
         counts = df.groupby(["market_date", "symbol"]).size().reset_index(name="n")
         for _, row in counts.iterrows():
             d = row["market_date"]
@@ -128,17 +152,21 @@ def prepare_and_window(parquet_path: str,
     if not os.path.exists(parquet_path):
         raise FileNotFoundError(parquet_path)
     df = pd.read_parquet(parquet_path)
-    if "ts_event" not in df.columns and "ts" not in df.columns:
-        raise ValueError("Arquivo precisa conter a coluna 'ts_event' ou 'ts'")
+    if "ts_event" not in df.columns and "ts" not in df.columns and "ts_recv" not in df.columns:
+        raise ValueError("Arquivo precisa conter a coluna 'ts_event' ou 'ts_recv' ou 'ts'")
     df = df.copy()
-    # prefer ts_event -> ts; parse to UTC
-    if "ts_event" in df.columns:
-        df["ts"] = pd.to_datetime(df["ts_event"], utc=True, errors="coerce")
+
+    # prefer ts_event -> ts_recv -> ts; parse to UTC and create 'ts'
+    if "ts_event" in df.columns or "ts_recv" in df.columns:
+        df = _parse_ts_with_fallback(df)
     else:
+        # fallback: if raw 'ts' already exists, parse it
         df["ts"] = pd.to_datetime(df["ts"], utc=True, errors="coerce")
+
     df = df.dropna(subset=["ts"]).sort_values("ts").reset_index(drop=True)
     if df.empty:
         return []
+
     # determine file symbol: choose most frequent symbol in file (more robust than first row)
     file_symbol = symbol_override
     if file_symbol is None and "symbol" in df.columns:
@@ -185,6 +213,7 @@ def prepare_and_window(parquet_path: str,
                 if not win_df.empty:
                     # quick quality checks for minimal data
                     n_events = len(win_df)
+                    # compute number of unique seconds with data inside window (used for BBO-1s)
                     n_seconds = win_df['ts'].dt.floor('S').nunique()
                     if n_events >= MIN_EVENTS_PER_WINDOW and n_seconds >= MIN_SECONDS_WITH_DATA:
                         results.append({
