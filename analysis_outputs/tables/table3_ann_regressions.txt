@@ -1,0 +1,66 @@
+Regression for br
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     br   R-squared:                       0.002
+Model:                            OLS   Adj. R-squared:                  0.001
+Method:                 Least Squares   F-statistic:                     1.998
+Date:                Mon, 01 Dec 2025   Prob (F-statistic):             0.0561
+Time:                        05:09:45   Log-Likelihood:                 23781.
+No. Observations:                6240   AIC:                        -4.755e+04
+Df Residuals:                    6232   BIC:                        -4.749e+04
+Df Model:                           7                                         
+Covariance Type:              cluster                                         
+====================================================================================
+                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const             3.551e-05    6.5e-05      0.546      0.585   -9.19e-05       0.000
+ANN_t                0.0004      0.001      0.458      0.647      -0.001       0.002
+ANN_t_lag1          -0.0018      0.001     -1.458      0.145      -0.004       0.001
+ANN_t_lag2          -0.0005      0.001     -1.076      0.282      -0.002       0.000
+ANN_t_lead1         -0.0018      0.001     -1.713      0.087      -0.004       0.000
+ANN_t_lead2          0.0002      0.001      0.310      0.757      -0.001       0.001
+ANN_minus_t         -0.0004      0.001     -0.461      0.645      -0.002       0.001
+ANN_minus_t_lag1     0.0008      0.001      0.578      0.563      -0.002       0.004
+==============================================================================
+Omnibus:                     2527.654   Durbin-Watson:                   2.023
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):          1814665.587
+Skew:                           0.409   Prob(JB):                         0.00
+Kurtosis:                      86.539   Cond. No.                         24.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+
+Regression for bf
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     bf   R-squared:                       0.001
+Model:                            OLS   Adj. R-squared:                 -0.000
+Method:                 Least Squares   F-statistic:                     1.092
+Date:                Mon, 01 Dec 2025   Prob (F-statistic):              0.369
+Time:                        05:09:45   Log-Likelihood:                -16844.
+No. Observations:                6240   AIC:                         3.370e+04
+Df Residuals:                    6232   BIC:                         3.376e+04
+Df Model:                           7                                         
+Covariance Type:              cluster                                         
+====================================================================================
+                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const               -0.0049      0.046     -0.107      0.915      -0.095       0.085
+ANN_t               -0.1678      0.571     -0.294      0.769      -1.288       0.952
+ANN_t_lag1           0.7040      0.611      1.151      0.250      -0.494       1.902
+ANN_t_lag2           0.9491      0.481      1.973      0.048       0.006       1.892
+ANN_t_lead1          0.2862      0.464      0.617      0.537      -0.622       1.195
+ANN_t_lead2          0.0635      0.412      0.154      0.878      -0.744       0.871
+ANN_minus_t          0.2500      0.833      0.300      0.764      -1.382       1.882
+ANN_minus_t_lag1    -0.4003      0.925     -0.433      0.665      -2.213       1.413
+==============================================================================
+Omnibus:                    14913.911   Durbin-Watson:                   1.955
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              427.892
+Skew:                           0.005   Prob(JB):                     1.21e-93
+Kurtosis:                       1.717   Cond. No.                         24.4
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
+
