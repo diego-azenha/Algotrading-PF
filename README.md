@@ -1,4 +1,4 @@
-# 📘 README — Projeto Final Algotrading  
+# Projeto Final Algotrading  
 **Retornos, Order Flow e Anúncios Macroeconômicos: Uma Análise Estrutural em Alta Frequência**  
 **Autor:** Diego Azenha • Insper • 2025
 
@@ -131,4 +131,5 @@ economic_releases/               # calendários e arquivos de anúncios macro
 ## ✉️ Contato
 
 Diego Azenha — diegoa4@al.insper.edu.br
+
 
